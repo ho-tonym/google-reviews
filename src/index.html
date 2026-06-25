@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vive La Crepe - Review Name Rankings</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥞</text></svg>" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__titles">
+        <h1>Vive La Crepe</h1>
+        <p class="subtitle">Google review name-mention rankings across NYC locations</p>
+      </div>
+      <div class="credits-badge" id="creditsBadge" title="SerpAPI search credits remaining as of the last data refresh">
+        <span class="credits-badge__label">SerpAPI credits left</span>
+        <span class="credits-badge__value" id="creditsValue">--</span>
+        <span class="credits-badge__sub" id="creditsSub">as of last refresh</span>
+      </div>
+    </header>
+
+    <section class="controls">
+      <label class="control">
+        <span>From</span>
+        <input type="date" id="dateFrom" />
+      </label>
+      <label class="control">
+        <span>To</span>
+        <input type="date" id="dateTo" />
+      </label>
+      <div class="control control--presets">
+        <button class="preset" data-days="30">30d</button>
+        <button class="preset" data-days="90">90d</button>
+        <button class="preset" data-days="365">1y</button>
+        <button class="preset" data-days="0">All</button>
+      </div>
+      <p class="controls__hint">Date filters apply to every store and recompute each ranking.</p>
+    </section>
+
+    <main class="stores" id="stores">
+      <p class="loading">Loading reviews&hellip;</p>
+    </main>
+
+    <footer class="site-footer">
+      <span id="lastUpdated"></span>
+      <span class="site-footer__note">
+        Reviews via SerpAPI - dates for older reviews are approximate. Name counts use whole-word, case-insensitive matching with nickname grouping.
+      </span>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

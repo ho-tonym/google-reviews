@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-06-25T14:12:43.424Z",
+  "credits_remaining": 190,
+  "stores": [
+    {
+      "id": "columbus",
+      "label": "Columbus Ave",
+      "address": "532 Columbus Ave, New York, NY 10023",
+      "rating": 4.3,
+      "total_reviews": 471,
+      "review_count": 471
+    },
+    {
+      "id": "hudson-yards",
+      "label": "Hudson Yards",
+      "address": "20 Hudson Yards 4th floor, New York, NY 10001",
+      "rating": 4.5,
+      "total_reviews": 179,
+      "review_count": 179
+    },
+    {
+      "id": "lexington",
+      "label": "Lexington Ave",
+      "address": "958 Lexington Ave #958B, New York, NY 10021",
+      "rating": 4.5,
+      "total_reviews": 324,
+      "review_count": 324
+    }
+  ]
+}

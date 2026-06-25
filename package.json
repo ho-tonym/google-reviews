@@ -1,0 +1,19 @@
+{
+  "name": "googlereviews",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Live Google review name-mention rankings for Vive La Crepe NYC locations, served on GitHub Pages.",
+  "scripts": {
+    "fetch": "node --env-file-if-exists=.env scripts/fetch-reviews.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "refresh": "npm run fetch && npm run build && npm run serve"
+  },
+  "keywords": [
+    "google-reviews",
+    "serpapi",
+    "github-pages"
+  ],
+  "author": "",
+  "license": "ISC"
+}

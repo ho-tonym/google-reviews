@@ -1,0 +1,3783 @@
+{
+  "store": {
+    "id": "columbus",
+    "label": "Columbus Ave",
+    "address": "532 Columbus Ave, New York, NY 10023",
+    "data_id": "0x89c25884c329115f:0x51702dc281924a47",
+    "rating": 4.3,
+    "total_reviews": 471
+  },
+  "fetched_at": "2026-06-25T14:12:43.424Z",
+  "complete": true,
+  "resume_token": null,
+  "reviews": [
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tGNVVUQTNTRkpKWlhFMFkwRlFSVVpTTTBSalFWRRAB",
+      "author": "Muzli Berisha",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2026-06-23T20:11:46Z",
+      "date_label": "19 hours ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tOMGRVaFNhSE5STjNaNlRWTm1Ua3R6WlV4TlVFRRAB",
+      "author": "Lesly Solis",
+      "rating": 4,
+      "text": "Vive La Crêpe is one of my favorite spots for great crêpes and friendly service. The food is always fresh and flavorful. I was disappointed to learn that the smoothies, especially the Very Berry Smoothie, have been discontinued. It was a refreshing favorite that paired perfectly with a crêpe. I hope Vive La Crêpe considers bringing it back. I still highly recommend this restaurant and would love to see the Very Berry Smoothie return.",
+      "iso_date": "2026-06-22T16:11:13Z",
+      "date_label": "a day ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT214Q2R6Tndaak5DWlZWMkxXWjRTMGs1Tm5kdFFtYxAB",
+      "author": "dew chan",
+      "rating": 4,
+      "text": "Had a decent experience here. Appreciated the crepes and enjoyed the company I was with, thanks to Sam. Will likely check out again!",
+      "iso_date": "2026-06-22T12:09:18Z",
+      "date_label": "2 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xdE5VRkhXVEkzVTNGRE0zaGlaa00wYW05a1pWRRAB",
+      "author": "Emily Zhou",
+      "rating": 5,
+      "text": "This place has so many new flavors I never tried before so I stopped by. Sam gave the best recommendations and I have no regrets for visiting. Perfect bite for my day off!",
+      "iso_date": "2026-06-22T03:09:25Z",
+      "date_label": "2 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tacWFtcDVRVU5JVFV0aE5GOUVjbHBXVDNwUFFsRRAB",
+      "author": "Shirley Liu",
+      "rating": 5,
+      "text": "This was a nice sweet treat after a long run in Central Park. Sam was amazing with her recommendations and customer service!",
+      "iso_date": "2026-06-21T18:03:33Z",
+      "date_label": "2 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT205V1FYWnVWRFZwY0ZwQ1VWOXVVV1U0YTE5ZmRIYxAB",
+      "author": "Constance Wu",
+      "rating": 5,
+      "text": "The crepes here were great. Sam patiently helped us and gave us great recommendations!",
+      "iso_date": "2026-06-21T03:22:02Z",
+      "date_label": "3 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVGQwRktTa1F0V0V0b01sOVVhMGROTUdWSWMxRRAB",
+      "author": "Dash Kupper",
+      "rating": 5,
+      "text": "One of my favorite spots in the city, love popping in before going to CP! Sam really goes above and beyond to make you feel welcome, and it’s really refreshing going somewhere where people know your name as soon as you walk in.",
+      "iso_date": "2026-06-21T02:18:38Z",
+      "date_label": "3 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t4T01FUkNTUzFDU1c1VVgxcDVNWFJVTFcxWWJYYxAB",
+      "author": "Stephanie M",
+      "rating": 5,
+      "text": "After visiting a nearby museum we wanted a sweet treat so we popped over to Vive La Crepe. Couldn't decide between sweet or savory, so Sam very helpfully worked with us to narrow it down to Pesto Chicken and Nutella Strawberry. Can't go wrong with ordering both! Thanks Sam!",
+      "iso_date": "2026-06-20T23:21:39Z",
+      "date_label": "3 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2taMU16QXplbGxRUVdVMlpXSjRZa2h5ZUhwRGRFRRAB",
+      "author": "Celine Lam",
+      "rating": 5,
+      "text": "Sam was super nice and provided great service! The food was so delicious!!",
+      "iso_date": "2026-06-20T23:11:40Z",
+      "date_label": "4 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xaMk1FNXVaMHRQUjJ0bVdVTTBOR2hQVFZoVmNYYxAB",
+      "author": "Melanie Salamat",
+      "rating": 5,
+      "text": "sam was the best! so kind and her crepe was so yummy!!",
+      "iso_date": "2026-06-20T22:10:05Z",
+      "date_label": "4 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRVNsUkVZVkpmTW1Vek5VZEtabmN6TjFKMmQxRRAB",
+      "author": "Jennifer Zhou",
+      "rating": 4,
+      "text": "Sam was great!",
+      "iso_date": "2026-06-20T20:59:20Z",
+      "date_label": "4 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VmRXVm1NbkJPY2tkUU1HMWZXR294YldGd1lVRRAB",
+      "author": "Justin Martinez",
+      "rating": 5,
+      "text": "My wife and I were starving and we dropped by a couple months ago for a bite. Got myself the classic nutella crepe with strawberry and the server Sam made it extra crispy per my preference. Not a huge fan of crepes that are too floppy. Very delicious especially when seasoned with hunger. Wife had a chicken pesto crepe and she was happy. Will plan to drop by again now that the weather is finally good.",
+      "iso_date": "2026-06-20T20:07:08Z",
+      "date_label": "4 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tnM2MxTk1hbkJOUkRGTVVrSXRUREYzUTJrM1RVRRAB",
+      "author": "Joshua Lee",
+      "rating": 5,
+      "text": "Stopped by earlier this week walking by this cute cafe and so glad I did! After the quick lunch rush I was able to sit and work with the free wifi! Delicious cortado made by Sam. Recommend.",
+      "iso_date": "2026-06-20T19:06:20Z",
+      "date_label": "4 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSlVWVnhRMGN0Tkd0TmRsaHFTa2cyVmtGTFZGRRAB",
+      "author": "Brian Hidalgo",
+      "rating": 5,
+      "text": "The food was amazing! Everything was perfectly cooked, with great employees! Extra coupons to the boss Sam R for being a great presence to elevate the amazing experience! Definitely coming back.",
+      "iso_date": "2026-06-18T20:14:35Z",
+      "date_label": "6 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25oUGJHOXljM3BqU1c5ZlJGSjFjbGxHWjBKTWNuYxAB",
+      "author": "Jenny Lu",
+      "rating": 5,
+      "text": "Delicious crepes! I really enjoyed it and the girl that helped me was really nice. I have a really bad nut allergy and Samantha was really helpful in suggesting which items were safe for me. I had a really great experience at this location.",
+      "iso_date": "2026-06-18T18:45:48Z",
+      "date_label": "6 days ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2paT2JVeGZVeTExWTBJemJrdFlUVmN0VTJKc1RrRRAB",
+      "author": "Gianne Catarata",
+      "rating": 5,
+      "text": "Pesto is my favorite!! Shoutout to Sam for her awesome service and for recommending it. Will definitely be back!",
+      "iso_date": "2026-06-18T10:52:04Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21KSVZFRnFNMEo0VUZSeVJFaFlUSE00VEZkUk1IYxAB",
+      "author": "Christina Solazzo",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2026-06-18T10:17:33Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdGFEbG9aMmRzTTBsSFVEY3llbnBCT0d0TGFsRRAB",
+      "author": "Yenmin Young",
+      "rating": 5,
+      "text": "I can never choose between the Provence crepe and the Smoked Salmon. They are so good! Came here after my friend’s elopement photo shoot and we got some great vibe pics. Thanks to the staff Sam Ma for making the visit more special!",
+      "iso_date": "2026-06-18T01:54:31Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMFZEQlRNa2M1YW5SaVJDMUdVbWRvVVhSemEyYxAB",
+      "author": "Benny Zhen",
+      "rating": 5,
+      "text": "Samantha recommended me the Chicken Pesto Crepe along with the Strawberry Dragonfruit Refresher. It was delicious! Highly recommend this. Bonus points for outdoor seating.",
+      "iso_date": "2026-06-17T23:22:44Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xweVFVTmhVRFJxVVZweVNrazRObWw2V1VSblJrRRAB",
+      "author": "Peter Kehinde",
+      "rating": 5,
+      "text": "Went to see what the hype was about real quick and just had the perfect banana chocolate crepe. It was warm full with fresh banana and strawberries. The server Samantha made my visit even better; 10/10 friendly service",
+      "iso_date": "2026-06-17T22:00:24Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25ablpIVnJWRVYyYWt4alJXRjJiRGs0TUhWV1lWRRAB",
+      "author": "Pharisha Cortes",
+      "rating": 5,
+      "text": "We had a great experience at this location. We have come multiple times and Sam is always very kind and patient.",
+      "iso_date": "2026-06-17T19:53:16Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bmFYQmhjMk5PWm1OdFUwdGhOV0owTm1oRGExRRAB",
+      "author": "sofia mazuera",
+      "rating": 5,
+      "text": "Sam was amazing, she made the crepe spectacular and it proves it because I came in yesterday as well",
+      "iso_date": "2026-06-17T19:45:47Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2twUlVtZFNkVXR0WTBKNFNsaEVObFJmWVhKbVJIYxAB",
+      "author": "Samantha Poon",
+      "rating": 5,
+      "text": "Very cute place. The crepes were delicious and I especially appreciated the service I received from Samantha M. She was professional and super friendly. Would rec!",
+      "iso_date": "2026-06-17T18:53:17Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNVNWYzVlVnBmYjJrMmVsQkpaMkpuTFVGaVNXYxAB",
+      "author": "Miu Kawahara",
+      "rating": 5,
+      "text": "I had an amazing experience at Viva La Crepe and Sam was so sweet and kind! Their service was impeccable and really made me feel welcome😁",
+      "iso_date": "2026-06-17T18:47:58Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2w5eVJFTjZhVVphWjNaRFRtSkxVRVIzT0doTmFIYxAB",
+      "author": "Kevin “SovereignReaper”",
+      "rating": 5,
+      "text": "Loved this crepe shop! The crepes were delicious, and Sam provided amazing service with a friendly attitude, and she made sure everything was perfect which elevated the experience. Highly recommend if you're looking for a tasty treat.",
+      "iso_date": "2026-06-17T18:45:01Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21ob1ltUXpVV1JTZDBOUGFXeFdkemR2UVZWdFowRRAB",
+      "author": "Anna Lin",
+      "rating": 5,
+      "text": "The crepes are delicious and fresh!\nThe server Sam was really friendly, gave good vibes and aura.\nWe enjoyed our time there :) would def come back esp when I’m around the area !",
+      "iso_date": "2026-06-17T18:02:38Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xab2F6aDFMVmw0VlZoMlpWQlpZWGRXZGtWRVgwRRAB",
+      "author": "Marylin Torres",
+      "rating": 5,
+      "text": "Sam provides Amazing services and is extremely helpful with questions regarding the menu. Love this place and the Sugar Butter Lemon crepe is my favorite.",
+      "iso_date": "2026-06-17T17:58:02Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Q2NGQnhjbkJtYm5oUk16WnFPV2hHWW1wMFNVRRAB",
+      "author": "Y",
+      "rating": 5,
+      "text": "Sam님이 정말 친절하셨어요. 덕분에 기분 좋게 식사할 수 있었습니다. 가게 분위기도 아늑하고 편안해서 정말 마음에 들었고, 다음에 또 방문하고 싶어요!",
+      "iso_date": "2026-06-17T17:52:34Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25jMmFuZDJkVWhTTlcxV2QzRkZWVFkxWjNkdGVXYxAB",
+      "author": "Haru",
+      "rating": 5,
+      "text": "Their gluten free buckwheat crepe was amazing. Thank you Sam!!",
+      "iso_date": "2026-06-17T17:46:04Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21sdVgyWlpTRGhXYVdSSFVrSjRVMGszUVZGc2JHYxAB",
+      "author": "Non",
+      "rating": 5,
+      "text": "Finally found a crepe spot where I can bring my gluten-free friend!! Huge shoutout to Sam for taking such great care of us :)",
+      "iso_date": "2026-06-17T17:41:15Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eFZERlpNbGt3WkdWVmQyZ3pXbkZMVUdWMWNGRRAB",
+      "author": "Lily",
+      "rating": 5,
+      "text": "Love this cute place with great staff. Sam is amazing!!",
+      "iso_date": "2026-06-17T17:30:50Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21SSmVFWm1ZV05KUnkwMVpHdDBUMUJGYW1kNFZXYxAB",
+      "author": "春",
+      "rating": 5,
+      "text": "クレープ美味しかった！Samさんが私の拙い英語にも優しく対応してくれました",
+      "iso_date": "2026-06-17T17:25:12Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21sZlNsZG1OWG81UzI4MU5FY3hTVTl3WnpWSmNGRRAB",
+      "author": "Yurie Ono",
+      "rating": 5,
+      "text": "Good food, good service. Sam was very nice and friendly.",
+      "iso_date": "2026-06-17T17:14:54Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RGNrOWZiblpQUlRkc2VVVlZXQzFFTVZSUVYwRRAB",
+      "author": "Christa Tempestilli",
+      "rating": 5,
+      "text": "Good food, great service - thank you Sam!",
+      "iso_date": "2026-06-17T17:13:20Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSVdEY3RhMG80TmxsUVFqSXlTV1JaT0hkRFdXYxAB",
+      "author": "Chris",
+      "rating": 5,
+      "text": "If you haven't been here yet, you are missing out! Incredible crepes and next-level service. Sam is an absolute rockstar—so friendly and completely made our day.",
+      "iso_date": "2026-06-17T16:18:02Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTFpHMUJWVWQwWW5CSU9FcG5VSGwzVkhKRFlVRRAB",
+      "author": "Steph",
+      "rating": 5,
+      "text": "The crepes are simple and good. The girl behind the counter, Sam, was so nice! She was very welcoming and provided excellent customer service.",
+      "iso_date": "2026-06-17T15:23:36Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT205UU0yRmxSeTEyVEdaaGFWcG9Sa0poVUZkS1QzYxAB",
+      "author": "Erica Chou",
+      "rating": 5,
+      "text": "The food here hits the spot. Great place to sit and relax or grab a quick bite to eat. Sam is so fast serves top quality food. She even offered to remake my coffee when I spilled it! Amazing customer service always. Recommend ❤️",
+      "iso_date": "2026-06-17T15:18:08Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25BNE5UaDVWVFV3V1VwV2IzWmFhV281WmxZeVFtYxAB",
+      "author": "Alice Lin",
+      "rating": 5,
+      "text": "Great coffee, great crepes and free wifi! Service is top notch - Sam was friendly and makes the most delicious crepes. Amazing multitasking - serving drinks, making crepes and greeting with a smile.",
+      "iso_date": "2026-06-17T15:14:06Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25KbGIwVlRZMjFGV0doVlJtcEJVSHBXV1ZSclNIYxAB",
+      "author": "Priscilla Lin",
+      "rating": 5,
+      "text": "Love the Strawberry dragonfruit refresher! Best drink to have on a nice summer day. Shout out to Sam for recommending it, gotta try the other ones and def a crepe next time!",
+      "iso_date": "2026-06-17T15:05:20Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2toTFRXMVRTMUk0TVZkVFRVbHZWRTE2WlU5alExRRAB",
+      "author": "Michael Cariaso",
+      "rating": 5,
+      "text": "Vive La Crêpe is a great spot if you’re in the mood for something quick and tasty. Love how the crepes are made fresh. I typically get sweet crepes and tried the Nutella one and it definitely hit the spot. Def gotta stop by to try a savory one. Staff was friendly, and shoutout to Sam for keeping the vibes up. Solid place to stop by when you’re in the area.",
+      "iso_date": "2026-06-17T15:02:37Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT205YU4wVnVkVzAzTTFCUFYxazViMVprZG5wRFEzYxAB",
+      "author": "Yang Xu",
+      "rating": 5,
+      "text": "Sam was amazing and gave us excellent recommendations. I will definitely be coming back!",
+      "iso_date": "2026-06-17T01:10:14Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25Gc1ExaGFNMWc1TVhWNVJXNUNhamhsUTB4VlVFRRAB",
+      "author": "Eddie Wang",
+      "rating": 5,
+      "text": "Good service, shout out to Sam who took care of us",
+      "iso_date": "2026-06-17T01:07:14Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2taUlNGWm1SVGRxV201cFlXMWxSemN6VlRGcmVtYxAB",
+      "author": "Derrick Vinluan",
+      "rating": 5,
+      "text": "Sam is great. Will keep coming back for le crepe.",
+      "iso_date": "2026-06-17T00:45:10Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaExVZFNaamRTTjA1c01FdDRhbFZxTFd0Tk1tYxAB",
+      "author": "Michelle",
+      "rating": 5,
+      "text": "Very cute spot. Extra star for Sam!",
+      "iso_date": "2026-06-17T00:43:54Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21Kd1RXNUNkMFJyWlZWeFVsVllVVFpPY1dsSU5HYxAB",
+      "author": "Chris Chu",
+      "rating": 5,
+      "text": "Service was great, was on a time crunch but Sam was great. Turkey Dijon definitely hit the spot!",
+      "iso_date": "2026-06-17T00:33:59Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xMVlXUkhOak15WkdSd1JHMDBXbEZEYlZjNGQyYxAB",
+      "author": "Mo Rahman",
+      "rating": 5,
+      "text": "These crepes are gonna make me fat if I keep coming here. I can always count on Sam to recommend me a new one to try each time.",
+      "iso_date": "2026-06-17T00:30:23Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMmRYbEVNRmRITTBKSVFtSlZXWGhWTjFCbE0yYxAB",
+      "author": "Johnny Khem",
+      "rating": 5,
+      "text": "Sam was awesome! Quick, friendly, and made sure everything was perfect.",
+      "iso_date": "2026-06-17T00:30:19Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t4R2N6WmZTR1p4VEVSWFlYUkJPRzVsZUhCd1QzYxAB",
+      "author": "HN",
+      "rating": 5,
+      "text": "Great experience overall. Sam was super friendly and provided excellent service!",
+      "iso_date": "2026-06-17T00:27:31Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21WbFNWbzNVRXByYTE4eU5tdEVabXA0TjJWRlEzYxAB",
+      "author": "peter lin",
+      "rating": 5,
+      "text": "Very good tasting crepes! I would recommend. The pesto is my favorite! Sam was very friendly and wrapped the crepes nicely.",
+      "iso_date": "2026-06-17T00:03:54Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25oWWFUTnRXR1J0YkZObExVdE9TRXBRT1ZWM2NFRRAB",
+      "author": "Jose Santana",
+      "rating": 5,
+      "text": "It's often busy during lunch time but it's definitely worth the wait. It's the best place to eat during my break and I'm so glad there are seats outside so I can eat and enjoy the weather. The staff was really nice, and they gave lots of recommendations. Sam recommended the sugar butter and it's so addicting. Will be coming back for some more later in the week.",
+      "iso_date": "2026-06-16T20:26:46Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21sWVIyWjZaMUJCUTNGYVprYzVWamR3T0ZnMlpVRRAB",
+      "author": "Sonali Ann",
+      "rating": 5,
+      "text": "Crepe was so good and the customer service was fire. Shoutout Victoria",
+      "iso_date": "2026-06-16T20:24:15Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2toR1JXbFJjV3RSVm1OM00wOTJiakZVVjFOdFprRRAB",
+      "author": "Vicky Tan",
+      "rating": 5,
+      "text": "The Crepes were awesome. Thank you, Sam, for recommended the Chicken Pesto. It is by far the best crepe I had.",
+      "iso_date": "2026-06-16T20:12:07Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21wZlpYTllkamROV2xRMmFsZG1NVlJLTkVaUlNFRRAB",
+      "author": "Jenny Lin",
+      "rating": 5,
+      "text": "Tasty crepes! I recommend trying the savory and sweet crepes. Entree and dessert wrap up in crepes. Also Super fun to watch the crepier, Sam, make it with such mastery.",
+      "iso_date": "2026-06-16T02:51:21Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2kxa2IxZE1RVXN4Vm1KQ09HaENaSGg2TW5Vd1RHYxAB",
+      "author": "Tom Castro",
+      "rating": 5,
+      "text": "Love coming here after school! Sam is always so nice, and the food always slaps.",
+      "iso_date": "2026-06-15T20:50:01Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cE9YSkdhREF5VWpCeldYQkZkSEpwZUROS1dXYxAB",
+      "author": "Enoch Pu",
+      "rating": 5,
+      "text": "The crepes were delicious, but the service was even better! Sam was incredibly welcoming and recommended the Nutella banana crepe it was an absolute amazing. I will definitely be back!",
+      "iso_date": "2026-06-15T20:34:45Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVGFsTk1PR2RHUldWWU5VeHBWVUUxWTJzelFrRRAB",
+      "author": "Brian Smith",
+      "rating": 4,
+      "text": "Tasty crepes and immaculate vibes. Huge shoutout to Sam for being so genuinely friendly and making us feel right at home.",
+      "iso_date": "2026-06-15T19:27:38Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pOU2FISXlhRWxsTWsxT2FUVmtSREU1TmtNelduYxAB",
+      "author": "Tony Ho",
+      "rating": 5,
+      "text": "Loved this place! The crepes were good, but the service was even better. Shoutout to Sam for being so welcoming and friendly. We'll be back for sure!",
+      "iso_date": "2026-06-15T17:45:17Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRlJEbFhSMFZGTVhCSE4yMXpSR3B5ZW5SMVZWRRAB",
+      "author": "Kira Chan",
+      "rating": 5,
+      "text": "I love coming here. The sweet smell once you come in is intoxicating. I get the sweet crepes more than the savory. Pistachio and dark chocolate is my favorite. Shout-out to Sam she's so fast and nice. Come check this place out.",
+      "iso_date": "2026-06-14T16:07:57Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21jdGNIbENlVkJXT0ZjNFptMXFNWFkwVUhwWFltYxAB",
+      "author": "Felipe Ucrós",
+      "rating": 5,
+      "text": "Fast, delicious, Sam is so helpful!",
+      "iso_date": "2026-06-14T15:49:38Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pobmJHOXdUMWxWWlhkUlRXazRSSEF5TkVocFpFRRAB",
+      "author": "Hilary M",
+      "rating": 5,
+      "text": "Great service from Sam at the one on Columbus!",
+      "iso_date": "2026-06-14T15:16:47Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbVVqTnViRzUwUm1kc01VNVdZV0Y2UlRaZlFYYxAB",
+      "author": "Shirley Wu",
+      "rating": 5,
+      "text": "10/10 spot. Crepes are delicious (ask for it well done for crispy so good) Sam is so nice, always with a smile on her face. Great customer service. Definitely recommend!",
+      "iso_date": "2026-06-14T14:55:39Z",
+      "date_label": "a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21FNE1WQTVSMDlaU0VkdlIyaFhhSFpxZW5acU1rRRAB",
+      "author": "Carl Gold",
+      "rating": 5,
+      "text": "Hardworking staff crushed after school rush with duende. Delicious food made in front of you.",
+      "iso_date": "2026-06-06T21:08:25Z",
+      "date_label": "2 weeks ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25SUWNscExZVFJCV0RCemVEUnBORTlZYW1kelYxRRAB",
+      "author": "Sajjad Khan",
+      "rating": 3,
+      "text": "doesn't seem clean",
+      "iso_date": "2026-06-03T19:17:44Z",
+      "date_label": "3 weeks ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21ObVh5MVpOek5yU25SUVVFczVjemxCVG05eFMyYxAB",
+      "author": "Angela Roy",
+      "rating": 5,
+      "text": "I Love Vive La Crepe-longtime customer.. this location has such pleasant staff and well made crepes!",
+      "iso_date": "2026-06-01T18:13:31Z",
+      "date_label": "3 weeks ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25WUlRXOVRMV1ZmYkZCMFYzSTNNR2d6UzI1RFdHYxAB",
+      "author": "Clèves De Montpensier",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2026-05-03T21:43:20Z",
+      "date_label": "Edited a month ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pJeVZGWnZYMjluTURSRVVYTTBZMFZ5Y0RsNE9VRRAB",
+      "author": "Kathleen Bradley",
+      "rating": 3,
+      "text": "Good savory and sweet options to choose from and fast service. I got Provence which had good flavor but was missing balsamic, very minimal cheese and a lot of spinach. The  dessert ones were good. Overall ok but lacks anything beyond basic.",
+      "iso_date": "2026-05-03T03:10:44Z",
+      "date_label": "a month ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25oQ05rVXlOak5RTkdKaGVtRmpSblJhUmpsTVNHYxAB",
+      "author": "Califun",
+      "rating": 3,
+      "text": "The fillings are good.  The crepes had a very eggy texture and taste and somewhat rubbery, not light and buttery as I expected.  Plain presentation. Cute café with outside seating.",
+      "iso_date": "2026-05-03T03:08:27Z",
+      "date_label": "Edited a month ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pkb1VrUTFNRGx1VG1oa2VrMXVRVVZvTm1sRUxVRRAB",
+      "author": "Shirley Song",
+      "rating": 5,
+      "text": "This place is great with the gluten free options.",
+      "iso_date": "2026-04-27T02:08:05Z",
+      "date_label": "a month ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTVVESmFOVXRWWVdaNlduZDViVnAxY0ROZllrRRAB",
+      "author": "Jacobo lopez",
+      "rating": 2,
+      "text": "The crepe was good, but I didn't like the coffee the service was bad. 😩 Starbucks coffee is 100 times better; this was very watery.",
+      "iso_date": "2026-04-23T23:46:05Z",
+      "date_label": "2 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25BNWRGQk1WMTlUU0V3eldtTXliVEp4VG1sc1JYYxAB",
+      "author": "Loh Phat",
+      "rating": 4,
+      "text": "It's really nice to see a crepe place have buckwheat batter but it's a little \"thin\" it should be more grainy and \"rustic\".\n\nAlso, it should be folden into an open square with the option of a fried egg in the middle! ❤️",
+      "iso_date": "2026-03-17T23:43:46Z",
+      "date_label": "3 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xCd2NuZDRPRWw2WW1zM2VGVnFRbVF5YlhKalNGRRAB",
+      "author": "AB",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2026-03-17T11:55:53Z",
+      "date_label": "3 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWVFYWXpUa2hWU1hWemQwOVhWV0kwTkhGclgwRRAB",
+      "author": "Jenny G",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2026-03-13T15:48:16Z",
+      "date_label": "3 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tabVdETm5jbVpSVEc5S1pGUmZVVk5LT1hJemRrRRAB",
+      "author": "Tessa Eagar",
+      "rating": 1,
+      "text": "Not worth your money at all. Barely anything in the crepe itself for a $15 and no flavor to make up that.  Not filling and barely a treat, an unfortunate waste of my money",
+      "iso_date": "2026-03-03T21:55:27Z",
+      "date_label": "3 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTmJHWTVTa2RpVkVVMGFrZG9UM2swTnkxd1FsRRAB",
+      "author": "Micheal Jones-Cooper",
+      "rating": 5,
+      "text": "Crepes were really filling!",
+      "iso_date": "2026-02-16T23:29:28Z",
+      "date_label": "4 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pseFNVOUtNMnhtU0hGT2QwMXdSamxKYjFsSk5tYxAB",
+      "author": "Andrew Lloyd-Jones",
+      "rating": 2,
+      "text": "Half decent crêpes, but at ridiculously inflated prices. $13 - $15 for what is effectively a snack is pretty shocking even by New York standards.",
+      "iso_date": "2026-01-19T19:39:38Z",
+      "date_label": "5 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeFdISnJZMDVUVEZwblNqRkljMmhQVGxGMVUxRRAB",
+      "author": "Emeline Chatelot",
+      "rating": 3,
+      "text": "Expensive for nothing.\n$21 for a coffee and a ham and cheese crepe, I won’t comeback!",
+      "iso_date": "2026-01-13T18:13:24Z",
+      "date_label": "5 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2taTWJXTlZZMWRzU0U1dmVHcE9YM2xOYm1nMFEzYxAB",
+      "author": "Jemil Lacaba",
+      "rating": 5,
+      "text": "Delicious sweet and savory crepes that are ready in minutes! Thanks to Erick and the friendly staff for making every visit special.",
+      "iso_date": "2025-12-23T13:01:13Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21waE5HUXRUME13WmpOQlltNUhibkpaYjNoR01sRRAB",
+      "author": "Hero Angeles",
+      "rating": 5,
+      "text": "I love studying here! Erick creates a cozy atmosphere, and the crepes are the best fuel for my brain. ❤️",
+      "iso_date": "2025-12-22T04:53:34Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSFFVMUdPSGRmYWxkUmRtcDBkM2RpU1V4TU9WRRAB",
+      "author": "Nachee Vonxey Salvador",
+      "rating": 5,
+      "text": "You gotta love the quick service here! Erick and the staff are fantastic, plus the crepes are a delicious treat for any time of day.\" 😍",
+      "iso_date": "2025-12-21T17:58:07Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xaYWNrcHBjMXB4T0VJMmVuUXhSRXgzZFZwaVpFRRAB",
+      "author": "Elaine Grace Perez",
+      "rating": 5,
+      "text": "The crepes here are fantastic! Erick and his staff always serve them quickly, perfect for a quick stop. Highly recommend!",
+      "iso_date": "2025-12-21T06:55:33Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aGFrMWtkM1pHWmtreVRVcHNRMEk1TTFCV1ZYYxAB",
+      "author": "Assher Valiente",
+      "rating": 5,
+      "text": "Perfect spot for a quick bite! Erick and his team serve up delicious crepes in no time. Love the vibe here!",
+      "iso_date": "2025-12-21T06:43:48Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VE1WRlRSbE5TVGxkMk5rOW9TbXRKUnpkMGJGRRAB",
+      "author": "Gloria Wang",
+      "rating": 5,
+      "text": "Found my new favorite cozy spot! It’s the perfect place to warm up. Huge shoutout to Sam for being so friendly and recommending the Sugar Lemon, it was delicious. 10/10 would recommend!\"",
+      "iso_date": "2025-12-21T01:08:22Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NVJGSjBRV3RwZUhNeWRFaHBTRFpQWlhkeVNIYxAB",
+      "author": "chiu ping Ma",
+      "rating": 5,
+      "text": "Very nice and bright space that serves delicious food! Once you walk in, it smells delicious! Sam was helpful, giving me suggestions and options after I told her it was my first time. The team is very hard working and fast. I recommend the provence with ham and a hazelnut latte. I'll be back soon!",
+      "iso_date": "2025-12-21T00:55:25Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbFUxWTNSRVZXY2w5V1FtMXBhRk5mTlc4dGJsRRAB",
+      "author": "Alexis Moh",
+      "rating": 5,
+      "text": "Whenever I need a break from studying, I know I can rely on Erick and his staff for delicious crepes and a warm atmosphere. ❤️",
+      "iso_date": "2025-12-20T16:25:59Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RGR6ZDBXRjlOV0dSS1dWVlZiVFpZYm5GbU1HYxAB",
+      "author": "Mark Dianho Paguyo",
+      "rating": 5,
+      "text": "Fast service and great crepes! Erick knows how to make everyone feel at home, and the staff is always cheerful.",
+      "iso_date": "2025-12-20T16:19:38Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21rellUWldhMDVDTjBvNVpGSlhYMlZUYkhCTk5rRRAB",
+      "author": "Marianne Quiambao",
+      "rating": 5,
+      "text": "I had an incredible time at this restaurant. The service was outstanding—everyone was attentive, friendly, and made sure we were taken care of the entire time. The food was absolutely delicious and beautifully prepared. Every dish had great flavor and came out perfectly.\n\nHighly recommended! Great service by Erick, kudos.  I’ll definitely be coming back.",
+      "iso_date": "2025-12-20T16:08:35Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25KRExXcExTMHhLZURGSFN6RTNaamRpZFZOUFJWRRAB",
+      "author": "Ghuia Uy",
+      "rating": 5,
+      "text": "Sweet or savory, you can’t go wrong with the crepes! Erick’s hospitality makes this place feel like home every time I visit.",
+      "iso_date": "2025-12-19T12:19:02Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pGb2MzYzFjME0zVnpadGVHZEVTUzFITlROcFpsRRAB",
+      "author": "Cee Espelita",
+      "rating": 5,
+      "text": "Best place to work and study! Erick makes sure you’re comfortable, and the free WiFi is a bonus. The crepes? Absolutely delicious!",
+      "iso_date": "2025-12-19T05:39:53Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25KQlJGbFpkbGxaV21zeFpFaFJVRVZqUlU5b01VRRAB",
+      "author": "Lily Garcia",
+      "rating": 5,
+      "text": "Whenever I need a quick bite, I head to Erick’s place! The hospitality is amazing, and the crepes are mouthwatering. Definitely coming back",
+      "iso_date": "2025-12-18T08:52:28Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21sUWJVOXhUVkpvVWtocFUzaDJjbWhpVTFkME4xRRAB",
+      "author": "Kathleen Olivia",
+      "rating": 5,
+      "text": "\"Erick and his incredible team always make me feel at home. The sweet and savory crepes are a must-try, especially when you need something fast!\"",
+      "iso_date": "2025-12-18T04:35:11Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pjM2JIUlpUMHRvV2xWMmVrTlpWbWhvWkhGSVUzYxAB",
+      "author": "Leila Alejo",
+      "rating": 5,
+      "text": "Feeling rushed? Erick and his staff will have you fed in minutes! The crepes are fantastic; I always look forward to my visit.",
+      "iso_date": "2025-12-17T11:42:14Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25oeVNGQTBjMGN3UXpVNVpIaEdaVk5HTFZsaGVGRRAB",
+      "author": "Chelsie Santonia",
+      "rating": 5,
+      "text": "Erick runs an amazing place! Quick crepe service, fantastic flavors, and a great atmosphere for working. Love it here!",
+      "iso_date": "2025-12-17T04:25:32Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUlVWUndSR2MxTW5wTlRsTTBOREExZHpWNmRFRRAB",
+      "author": "Mack Dacayo",
+      "rating": 5,
+      "text": "If you're craving crepes, don't look further! The service is speedy, and the flavours --sweet or savory -- are fantastic! Erick is always helpful! 👌😍",
+      "iso_date": "2025-12-16T14:25:32Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT205V00zRmtVMnRVYjNab1NHeDRSMEpWVWtSSmRuYxAB",
+      "author": "apple anne marcelo",
+      "rating": 5,
+      "text": "Delicious crepes made fresh and fast! The staff is lovely and friendly, and Erick ensures everything's going perfectly. A great spot when you're in a rush!",
+      "iso_date": "2025-12-16T04:15:55Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25KSE1TMXJkelJ3YjJzMk5VdHRVR1JETkRVMFFWRRAB",
+      "author": "Alexander July Abad",
+      "rating": 5,
+      "text": "Fast and friendly service paired with incredible crepes—Sweet options are delightful, and Erick keeps you feeling at home!",
+      "iso_date": "2025-12-16T04:08:42Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25vMWMyaHlZMUkzVG1kak4xTk5SSGhMYmxwNE1WRRAB",
+      "author": "jerome marcelo",
+      "rating": 5,
+      "text": "Great place for fantastic crepes! The service is efficient, and Erick makes everyone feel at home. Perfect if you’re in a rush!",
+      "iso_date": "2025-12-14T07:43:49Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21rd01sVk5jRTlsVFRsclZFRkpORUZTYkZNMVYwRRAB",
+      "author": "Ja Co",
+      "rating": 5,
+      "text": "Sweet crepes = heaven! 🍓✨ Fast, respectful staff & Erick runs the line like a pro. Cozy vibes—highly recommend!",
+      "iso_date": "2025-12-13T04:37:38Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RVpFTldVa2h0U0dneWExbFhjbDg1YzNaQk0wRRAB",
+      "author": "Trisha Onia",
+      "rating": 5,
+      "text": "I love grabbing a savory crepe here when I’m in a rush! Fantastic flavors and quick service with a warm touch from Erick and the team.",
+      "iso_date": "2025-12-13T02:50:52Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWk9HZzNNazF4Wlc5clpHZ3hhMjVHUkZnMlJGRRAB",
+      "author": "L.a. Navarro",
+      "rating": 5,
+      "text": "If you're in a hurry, this is the best place to be! The savory crepes are packed with flavor and the service is quick. The manager, Erick, is very friendly! Kudos!",
+      "iso_date": "2025-12-13T02:43:03Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT205amRtWnBZMUE1YlRWU1FsZEtRbmd6TW1kRlNXYxAB",
+      "author": "Joanne Colcol",
+      "rating": 5,
+      "text": "Outstanding crepes! Sweet or savory, they’re both amazing! The friendly service from Erick and his team makes for a pleasant, quick visit.",
+      "iso_date": "2025-12-12T04:05:26Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdmVsVTJiMUp4UkdOUGFYZFhaVWM1WkZCUlYyYxAB",
+      "author": "Milgrace Navarro",
+      "rating": 5,
+      "text": "Delicious crepes! Whether sweet or savory, they hit the spot. Fast service and friendly staff make it a perfect pit stop. Erick, the manager, keeps everything running smoothly! ❤❤❤",
+      "iso_date": "2025-12-12T00:41:53Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21sc2JWOWpVemxvTjFaT2NWcE1XVGxZYjA5SVRVRRAB",
+      "author": "G Frye",
+      "rating": 5,
+      "text": "One time we tried their egg Gruyère and ham omelette crepe, and it was delicious. Their crepes always smelled very good.",
+      "iso_date": "2025-11-28T19:12:42Z",
+      "date_label": "6 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTVMwWTBaMHhzVDAxc1V6TjZSM2RFZEVsU1FsRRAB",
+      "author": "John Ahlgren",
+      "rating": 1,
+      "text": "",
+      "iso_date": "2025-11-19T20:42:31Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21JM2VHSXdabFJvYWtJMlIxTmhNekZxUjNWalIxRRAB",
+      "author": "Joshua Lucksom",
+      "rating": 5,
+      "text": "Crepes were delicious! Sam was super helpful and recommended some to take home for our friends too.",
+      "iso_date": "2025-11-07T23:28:28Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2twWFRtNW9kRVZyZDJaWlMzaDVNVEYyTkRsdU5IYxAB",
+      "author": "michelle keith",
+      "rating": 5,
+      "text": "Yummy 😋",
+      "iso_date": "2025-11-07T20:25:24Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21aaVlXY3hVVzlLV0ZaaFNqRnVNWFIyWmtvNFZIYxAB",
+      "author": "Niya Xiang",
+      "rating": 5,
+      "text": "A good place to go if you want something sweet！ Eric is great!",
+      "iso_date": "2025-11-06T00:04:31Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21ablRFOXFMWEpVUm5WNWREbGxWbXhDUW5KVk4zYxAB",
+      "author": "Frank Accardi",
+      "rating": 5,
+      "text": "Vive La Crepe is now my favorite crêpe spot! The atmosphere is cozy, and the food is fantastic the savory Chicken Pesto and the sweet Nutella and Banana crêpes were both perfect. What really made the experience shine was the service, especially from Samantha. She was truly great! Samantha was friendly, offered wonderful menu ideas (I tried her suggested Nutella and Banana and loved it), and managed everything with a bright, welcoming attitude. I highly recommend stopping by; thanks to Samantha and the amazing food, I can't wait for my next visit.",
+      "iso_date": "2025-11-05T22:23:04Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eFpVSmpjM1kwV2psbWNFMU1iMXBRZDJjdExVRRAB",
+      "author": "Stephanie Bishundat",
+      "rating": 5,
+      "text": "This place is excellent. Samantha was super helpful! Thank you again!",
+      "iso_date": "2025-11-05T21:16:10Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25oWVNYbHhOMHRwV2w5bFUxaG5RbE5OYzB0eFRtYxAB",
+      "author": "Vanessa W",
+      "rating": 5,
+      "text": "The crepes here are amazing! Sam was so friendly!",
+      "iso_date": "2025-11-05T18:45:29Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RE9YRTJUblYyWm5CWloyTlhZMHcyZVRWVVFuYxAB",
+      "author": "Patrick Yeboah",
+      "rating": 5,
+      "text": "Sam was supper helpful and attended to our needs respectfully.",
+      "iso_date": "2025-11-05T18:33:54Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2poUFV6Z3dhRGRQVDNKVE5GOVhSWGhJUlMxUFVHYxAB",
+      "author": "Kushal Sherpa",
+      "rating": 5,
+      "text": "Great crepes and better vibes, can't ask for better than that. Sam was super friendly and helpful. Definitely coming back here soon.",
+      "iso_date": "2025-11-05T18:26:26Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25ReFJuUjJXbFZmUzA4NGJrMUNabk5wU2tjNFpGRRAB",
+      "author": "Tess McCallum",
+      "rating": 5,
+      "text": "Love this place! I’m always greeted with a smile by Samantha, she makes this place shine. Yummy yummy!",
+      "iso_date": "2025-11-05T17:42:21Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMlMyZ3RNblZLU21wWFdUVnplWEp2TUcxamVrRRAB",
+      "author": "Marilou Bolado",
+      "rating": 5,
+      "text": "Vive la Crepe has become an essential for me.It's always busy, but they never keep you waiting for long. Erick including the staff are wonderful, and their service never lacks a smile. Their crepes are delicious. I keep coming back in here for their latte.",
+      "iso_date": "2025-11-05T10:36:39Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21wc1prZ3djblpIYm1aR1MzcFlkalpXY1dReGFsRRAB",
+      "author": "France Ann Clare Navarro",
+      "rating": 5,
+      "text": "I’m a big fan of Vive la Crepe! Even when the place is busy, they manage to serve quickly without losing their warm, friendly touch. Erick and the crepe makers often go the extra mile to make sure every visit is enjoyable. Their crepes are simply delicious.",
+      "iso_date": "2025-11-05T02:59:29Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xRlMwbEtNMjFTWnkxRU1WcHdiRk5sZGxadE5sRRAB",
+      "author": "Patrick Queral",
+      "rating": 5,
+      "text": "Vive la Crepe is truly a gem! Erick and his team work so well together, even during the busiest times. The service is quick, and the staff is always so friendly and helpful. I love the crepes here, and it’s the perfect spot if you're in a rush but still want great food!",
+      "iso_date": "2025-11-05T00:51:26Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pkU2NHRkNaRGt0TW5GRVpYbHJRa1pRVjNwUWVrRRAB",
+      "author": "Juander Shop",
+      "rating": 5,
+      "text": "I can't recommend Vive la Crepe enough 😁 It's busy, but Erick and his team manage to keep the line moving without losing that friendly vibe. The crepes are delicious, get the Amelie, it’s good. They always provide a good service with a smile. I keep returning for both the food and the friendly atmosphere.",
+      "iso_date": "2025-11-04T22:49:58Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21WMmFXbE1XVGt5TW1Kd2FYRTFhMng1VFhCcGJIYxAB",
+      "author": "Goldwyn Salazar",
+      "rating": 5,
+      "text": "I love visiting Vive la Crepe. Even when it's busy, the service is impressively quick. Eric and the friendly staff always serve with a smile. The crepes are delicious, and I keep coming back here because they're accommodating, and the place is clean.",
+      "iso_date": "2025-11-04T20:27:52Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWE1IbHRWbnAyYmtFMU1HOU5kV2xMWjA1WWIwRRAB",
+      "author": "Shirley Zhang",
+      "rating": 5,
+      "text": "This is my first time trying this place out so I didn’t know what to try. I talked to the Sam in the front about what things I liked and she gave me a really yummy suggestion with berries. Will be back!",
+      "iso_date": "2025-11-04T19:07:30Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25ad2QzZzFZazh0UkhoMFowRkNielpmZDFCUFZHYxAB",
+      "author": "Genevieve Labuguen",
+      "rating": 5,
+      "text": "The best coffee and crepe i’ve ever tasted! Plus customer service is excellent. Not to mention that the Asian manager is cute, he is so warm and accommodating, he makes you feel at home. 🤗",
+      "iso_date": "2025-11-04T18:12:05Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWGIxWm1XSG95TjFkVFdVbERhREZ1YUhwSU1rRRAB",
+      "author": "Will Holmgren",
+      "rating": 5,
+      "text": "A neighborhood delight.  Sam, in particular, brightens the place.  Merci beaucoup",
+      "iso_date": "2025-11-04T14:28:47Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xnemNUVnNNbkpPY1RGZmVqWm5Nak55WVhsRWFHYxAB",
+      "author": "Corie Alobba",
+      "rating": 5,
+      "text": "Vive la Crepe is my go-to spot. It's a bit busy when I go there, but they manage to serve you quickly. The staff, especially the Asian guy, Erick is very friendly and always makes my experience enjoyable. Their crepes are delicious, and I always leave happy! A must try.",
+      "iso_date": "2025-11-04T00:06:51Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tGd2FteGZVVk5WZFd4cWNqTklkV2ROY25kQ1NtYxAB",
+      "author": "Noah Chen",
+      "rating": 5,
+      "text": "This is my go to spot to have a cup of tea and a sugar lemon crepe. Sam is always so kind and welcoming remembering my order every time I come in. Even when they are busy the workers are very hard working and efficient to get everyone's order ready. Love this place, great place to get some work done with their wifi and people watch.",
+      "iso_date": "2025-11-03T23:58:32Z",
+      "date_label": "Edited a week ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21OdU5rWnVRVUZtTUhKdVh6VllTMmxRY1d0NmRYYxAB",
+      "author": "Redentor Reyes",
+      "rating": 5,
+      "text": "Vive la crepe is a nice place to grab a bite. Although it’s usually crowded during lunch time, the service remains quick and helpful. Erick and his staff are always welcoming, and their crepes are the best. Anytime I’m in a hurry, this is where I go cause their ham and cheese is my favorite.Visit them soon.",
+      "iso_date": "2025-10-31T14:54:07Z",
+      "date_label": "Edited 7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbVNFMHlTbUV3U1RJdGQyRXpialZIVXpaQ01GRRAB",
+      "author": "M K",
+      "rating": 3,
+      "text": "It was… okay. The atmosphere, service, and décor are adorable clearly created with care and attention to detail. You can tell there’s passion behind the place.\n\nUnfortunately, the crêpes we had felt pretty basic and a bit rationed. Not a lot for the cost, and not very filling. Maybe some of their more adventurous options would’ve been better, but I left wishing I’d ordered something else.\n\nThe coffee, though? Genuinely good.\n\nNot much else to say. There are plenty of great food options nearby, and while I’m glad we tried it, I wish we’d gone elsewhere this time.",
+      "iso_date": "2025-10-28T19:17:30Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21Jd1pFbFlUMjFQWDJad1RVNTVXVEI0U0Rad1JtYxAB",
+      "author": "Amanda Blachorsky",
+      "rating": 5,
+      "text": "What a delight to have this so close to my office! Everyone who works there is super nice and the crepes are always delicious. My go to is the sugar and lemon but the Provence is also so good!",
+      "iso_date": "2025-10-27T19:48:14Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2taa1FtSlBZakp2UW1WZlh6WjVWbFpNVTNwU2JsRRAB",
+      "author": "Joanna Akerman",
+      "rating": 5,
+      "text": "Delicious - especially after school. Love apple cinnamon pie!",
+      "iso_date": "2025-10-27T19:44:11Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25acVNqbHFUakZXYjNobFRIbGFUMTlEVkU1R1QzYxAB",
+      "author": "Lexi Hammond",
+      "rating": 5,
+      "text": "I love all the options here! Crepes are amazing and staff is so friendly. Im here all the time!",
+      "iso_date": "2025-10-27T19:31:04Z",
+      "date_label": "7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT214UldFUkhkMUZVT0dKdldsQTVjM1JLWTA1bk1tYxAB",
+      "author": "Naftali Cohen",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2025-10-21T23:08:28Z",
+      "date_label": "8 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNmQzRTNSSHBoUVROQlpWZFVZbEZTYlZCcVQwRRAB",
+      "author": "Agron Bytyqi",
+      "rating": 5,
+      "text": "This place is good . Erick treats me right.",
+      "iso_date": "2025-10-17T12:00:59Z",
+      "date_label": "Edited 7 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21KcFFrczBTekZCVWpVNFEzSkhNMGxwVUd0aFMzYxAB",
+      "author": "lyla chana",
+      "rating": 5,
+      "text": "so amazing! best place to come and study, with good wifi, along with a yummy crepe.",
+      "iso_date": "2025-10-15T13:21:16Z",
+      "date_label": "8 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25WM2JHZDViSHBuYnpOS05WaEJZbGwxUlRjM1oxRRAB",
+      "author": "Dia Abdykerim",
+      "rating": 5,
+      "text": "Sooo good have to try!",
+      "iso_date": "2025-10-15T13:21:02Z",
+      "date_label": "8 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQmEwUTBPV2RKWkcxM04zcFllV1pqTTNGSUxYYxAB",
+      "author": "Stan Schneider",
+      "rating": 3,
+      "text": "Stopped there to relax and have a latte. Coffee was not great, latte was lukewarm.",
+      "iso_date": "2025-10-10T08:33:32Z",
+      "date_label": "8 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25CV2FEVmpTblprTjAxQ1VDMW5TekpEYkcxMWFuYxAB",
+      "author": "Emma Conroy",
+      "rating": 4,
+      "text": "I love this place but why did they get rid of large coffees? This is my Thursday treat breakfast and I need a large coffee to go with it. This morning I just went next door to Matto for my coffee. 😢",
+      "iso_date": "2025-10-09T12:50:37Z",
+      "date_label": "8 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT210VVIwaERRVFJSU3pkQlpsUjNia3BLUVZoUGFrRRAB",
+      "author": "Nat Rabinor",
+      "rating": 5,
+      "text": "great crepes and amazing service",
+      "iso_date": "2025-10-01T19:24:24Z",
+      "date_label": "8 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xCeU9YZEhYemhxVmt4eVZtTk5jMFZwUm01V1JVRRAB",
+      "author": "Ashley Allen",
+      "rating": 5,
+      "text": "Tito’s review seems very entitled and disingenuous. I am a regular here and always feel welcomed by Sam and Keury. They have always been kind and even remember my name and order after just a couple visits. The food always hits the spot (I normally get the savory Amelie crepe) and I love my oat lattes! Come in and try for yourself because the vibe is always good! It can get bust after 3pm when the schools let out, so keep that in mind.",
+      "iso_date": "2025-09-25T19:04:02Z",
+      "date_label": "8 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25sSVFXSmtlRTlJVVZoU1JVOURaVlpPVWpoRFlYYxAB",
+      "author": "Siri Moses",
+      "rating": 5,
+      "text": "Sam was great and very nice! Very professional and welcoming. 10/10 service! Definitely recommend if you’re in the neighborhood. Crepe was great.",
+      "iso_date": "2025-09-24T17:16:35Z",
+      "date_label": "9 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZlVWcG1WM1JFY0VOdU0wVldiVmhHWTFaQ1JuYxAB",
+      "author": "Tito",
+      "rating": 1,
+      "text": "Service was atrocious. Sam, behind the register, could not have been less welcoming. Headphone in, not paying attention, did not say a word and looked annoyed that we were there (what do they pay her for?!)\n\nAnyway, crepe was alright but bad service just makes it less enjoyable experience. Better go next door to Matto or anywhere else in the city.",
+      "iso_date": "2025-09-21T17:26:50Z",
+      "date_label": "9 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT214U1dHaHFhMUo2TTNZeFlTMVBVRU5QV2swMkxYYxAB",
+      "author": "Jennie Rivera",
+      "rating": 5,
+      "text": "Absolutely wonderful without qualification. The team provided speedy, skilled, and friendly service. The items I've eaten had good taste. I had no words to express my feelings. I plan to come back and explore more menu items.",
+      "iso_date": "2025-09-19T20:00:10Z",
+      "date_label": "9 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pScmRUZFZXbWw0TWtNek5FSjRWRXh5TTNKdFlsRRAB",
+      "author": "Despina Drougas",
+      "rating": 5,
+      "text": "The most delicious crepes! I didn’t even realize this was a chain restaurant because the quality and taste are so good!! I order the Province crepe 3x a week and highly recommend it! Bringing my friends here too!",
+      "iso_date": "2025-08-06T02:26:52Z",
+      "date_label": "10 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21sWVVVOUVRVVJrWmxOMGVqYzNXblJ6TlVwTGVrRRAB",
+      "author": "Arjun Shah",
+      "rating": 5,
+      "text": "close to me. love this place, fresh crepes savory and sweet really nice especially in the winter-time",
+      "iso_date": "2025-07-30T01:07:02Z",
+      "date_label": "10 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMVpGcGxaWG96VUZkZlRHWnlWMUJ0YzA1amJrRRAB",
+      "author": "M1tisse",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2025-07-24T17:40:26Z",
+      "date_label": "11 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xCd2NteGZjV3RxTWxGWk0yczRORU5hYVdacmVXYxAB",
+      "author": "Amir Ince",
+      "rating": 5,
+      "text": "Excellent service, even more excellent food",
+      "iso_date": "2025-06-30T01:45:04Z",
+      "date_label": "11 months ago"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25kWE9EUndUMUZqVUVkWmRIaGlRbTlwWTNGNVRtYxAB",
+      "author": "Charles Spiegel",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2025-06-28T21:55:48Z",
+      "date_label": "11 months ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VLUE1pYVQxZ3ZPSUdBEAE",
+      "author": "Anthony Riand",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2025-05-23T13:55:21Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VNMnQ4OXZUeXRPM0VnEAE",
+      "author": "Conor Chen",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2025-05-14T23:46:22Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTURvdHBhUmdBRRAB",
+      "author": "dana pizzimenti",
+      "rating": 1,
+      "text": "Hello, I was just in the place today ordering food to sit at the table in front of the place. As i sat, i saw a teens eating outside food like pizza  on like 3 tables. One teen had his chair against my table. Invading my space and its annoying cause hes right against my table trapping me. Annoyed,\nI told the workers that a bunch of them were eating out side food and they did nothing. Its unfair  for me to eat food from there to sit comfortabally outside and teens are eating pizza and banging chairs against other table.",
+      "iso_date": "2025-04-24T16:35:13Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTUNvejZYaml3RRAB",
+      "author": "Chinmay Agrawal",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2025-04-20T21:28:02Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTUNvczctUkNnEAE",
+      "author": "Pankaj Jetley",
+      "rating": 5,
+      "text": "Loved the savory crepe",
+      "iso_date": "2025-04-19T19:40:58Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTUNvbHVlU1RBEAE",
+      "author": "jesus parada hernandez",
+      "rating": 4,
+      "text": "Buen servicio,tranquilo y comida pasable",
+      "iso_date": "2025-04-16T21:46:21Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTURJNk9IdllnEAE",
+      "author": "clarkson potter",
+      "rating": 2,
+      "text": "Didn't give me one of my crepes",
+      "iso_date": "2025-04-06T18:40:43Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTUNJekxXbGR3EAE",
+      "author": "MA A",
+      "rating": 5,
+      "text": "Crepe was delicious!",
+      "iso_date": "2025-03-30T23:23:16Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTURna3J2SDRBRRAB",
+      "author": "Maryana Rybay",
+      "rating": 5,
+      "text": "It’s the best crepe that I have been even trying",
+      "iso_date": "2025-02-23T16:26:18Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTUNnOG9hR1RREAE",
+      "author": "E J",
+      "rating": 1,
+      "text": "not tasty unfortunately. no flavor in the crepes or the add ins.",
+      "iso_date": "2025-02-15T19:19:08Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNmcHZDYndRRRAB",
+      "author": "Mike Christel",
+      "rating": 5,
+      "text": "Small but cozy creperie that does offer outdoor seating as well,  with very tasty savory and sweet crepes whose goodies inside welcome the diner! They look plain from the outside but deliver a welcome meal!",
+      "iso_date": "2024-12-28T14:40:21Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNmeXB5S3hnRRAB",
+      "author": "Britt Borders",
+      "rating": 5,
+      "text": "I have a gluten allergy, I was visiting New York and got a Nutella crepe with strawberries and the ham and cheese crepe with buckwheat.\n\nIt was SOOOOO GOOD. And the service was great, fast and they were super friendly. Trying to get my boyfriend to go back before we leave. Will definitely return!",
+      "iso_date": "2024-12-27T23:42:15Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUR2MkxxQ2dnRRAB",
+      "author": "Stephanie McCauley",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2024-12-17T10:39:57Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN2cWJqU0xBEAE",
+      "author": "Kelly Ford",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2024-12-12T10:42:02Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNQNVlQTFhnEAE",
+      "author": "Anduin Havens",
+      "rating": 5,
+      "text": "I am so excited to eat buckwheat crepes in the US! My French family is happy too :)",
+      "iso_date": "2024-11-26T12:44:25Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQzN2NiR21BRRAB",
+      "author": "Igor Marinelli",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2024-11-17T18:57:57Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMzbm95SFB3EAE",
+      "author": "Bhakti Mirchandani",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2024-11-05T20:30:34Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURYeG9XeDNBRRAB",
+      "author": "Oisín Ó hAlmhain",
+      "rating": 5,
+      "text": "Great to find gluten-free buckwheats crepes! Thanks",
+      "iso_date": "2024-10-26T17:36:34Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURua3ZDS0N3EAE",
+      "author": "Amy Vanderwal",
+      "rating": 4,
+      "text": "Love this place but they need to bring back peanut butter crepes!",
+      "iso_date": "2024-10-04T16:17:19Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNuaC1iUGtnRRAB",
+      "author": "David Cunningham",
+      "rating": 3,
+      "text": "BEC (bacon egg & gruyere) was thoroughly disappointing. Chunks of soft (canadian?) bacon with no saltiness at all in the collective contents.  Great service. I’ll probably come back to try the sweet crepes for date night, but likely won’t get savory here again.",
+      "iso_date": "2024-09-30T14:22:09Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM3bC12ekxBEAE",
+      "author": "Franck Doucet",
+      "rating": 5,
+      "text": "Très bonne crêpe !!",
+      "iso_date": "2024-08-18T21:42:19Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM3OEp2ZHlBRRAB",
+      "author": "Andi Cin",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2024-08-11T19:18:11Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURiOTRHNU1REAE",
+      "author": "Elisabeth M",
+      "rating": 5,
+      "text": "The perfect small breakfast, I ordered the sugar and butter crepe and it was just what I needed. It’s a cute spot with good service.",
+      "iso_date": "2024-08-10T14:39:37Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURybjlPSVFBEAE",
+      "author": "Yola P",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2024-07-21T16:29:48Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNyeUxDbjN3RRAB",
+      "author": "Adelina M",
+      "rating": 5,
+      "text": "I have been coming here for my iced coffee and crepes for years, the staff are super friendly and the food is amazing.  Id like to shout out Samantha for her kindness and for always making me feel special :) thanks to the team for all you do!!",
+      "iso_date": "2024-07-03T14:49:43Z",
+      "date_label": "a year ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNMMlB2YmxnRRAB",
+      "author": "William Thomas",
+      "rating": 1,
+      "text": "Food is good but extremely overpriced, worker Samantha was unkind, condescending and unprofessional.",
+      "iso_date": "2024-06-14T21:22:49Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURUdGZ2VzZnRRAB",
+      "author": "Carlos Castillo",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2024-05-26T13:31:41Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURUOXN6czZ3RRAB",
+      "author": "valeria viloria",
+      "rating": 5,
+      "text": "Really nice crepes ! My favorites",
+      "iso_date": "2024-05-24T14:29:43Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNUemJpcUV3EAE",
+      "author": "Kat G. Moynihan",
+      "rating": 5,
+      "text": "Absolutely delicious! Phenomenal savory crepe, fast service, and lovely atmosphere - whether you want to enjoy indoors or on the sidewalk seating. Also easy to take and eat to go!",
+      "iso_date": "2024-05-17T18:18:06Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURqNXNMbGhBRRAB",
+      "author": "Jeremy Jnt",
+      "rating": 5,
+      "text": "Très bonnes crêpes. Endroit propre,  wc compris.😉\nPersonnel agréable.\nJe recommande",
+      "iso_date": "2024-05-02T16:58:17Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUREaDRfbjZBRRAB",
+      "author": "Taina Orta Feliciano",
+      "rating": 2,
+      "text": "$10 Nutella crepe for barely Nutella In it.",
+      "iso_date": "2024-04-15T01:03:00Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUREeUpmRXN3RRAB",
+      "author": "Steve Goet",
+      "rating": 4,
+      "text": "Nice concept.",
+      "iso_date": "2024-04-05T02:20:32Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNEZzlDb3ZBRRAB",
+      "author": "Ma del",
+      "rating": 5,
+      "text": "Sweet ⭐️",
+      "iso_date": "2024-03-31T20:44:13Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM5b19pREtREAE",
+      "author": "Alan Medrano",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2024-03-09T03:41:50Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURkbGQ3QVlnEAE",
+      "author": "Ilana Kalach",
+      "rating": 5,
+      "text": "Delicious crepes, great option for a sweet craving.",
+      "iso_date": "2024-02-25T17:34:18Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNkaEp2b3NBRRAB",
+      "author": "Raphaël G",
+      "rating": 3,
+      "text": "Don’t go there if you already had a real crepe in France, this is nothing alike. But apparently people like it here, that’s terrifying 🫢😅\nThe service was good",
+      "iso_date": "2024-02-11T21:41:44Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNkcUxmdzV3RRAB",
+      "author": "A. B.",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2024-02-11T00:58:56Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUMxMGRfU3B3RRAB",
+      "author": "Dave Lin",
+      "rating": 5,
+      "text": "Nice savory crepe.",
+      "iso_date": "2023-12-31T15:19:36Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUMxX01QRHF3RRAB",
+      "author": "Feedback is a Gift",
+      "rating": 5,
+      "text": "Good place to have a Crêpe & coffee👌",
+      "iso_date": "2023-12-25T17:22:06Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURWNGNXTl9BRRAB",
+      "author": "Yoo Chung",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-12-13T13:35:27Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURWeU9DSFRBEAE",
+      "author": "Review C",
+      "rating": 4,
+      "text": "nice coffee okay savory crepe",
+      "iso_date": "2023-12-10T16:01:37Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURGeGFidWZBEAE",
+      "author": "Sal Padellaro",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-11-08T17:17:34Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURGMnM2TGNREAE",
+      "author": "V O",
+      "rating": 5,
+      "text": "Crepes are real french recipe, simply delicious.\nIced coffee was one of the best I had in NYC so far.",
+      "iso_date": "2023-11-06T02:51:26Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNGdGVhWXN3RRAB",
+      "author": "Precious Femi-Ogunyemi",
+      "rating": 4,
+      "text": "It was a prefect little cafe to stop in whilst it’s raining for a crepe!  It a lot of seating but it was warm!",
+      "iso_date": "2023-10-30T14:17:21Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNGOGRXd3lBRRAB",
+      "author": "carolyn scott",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-10-28T20:09:30Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNGd2U2WXBnRRAB",
+      "author": "Axel Lundius",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2023-10-28T13:10:50Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ1bklySXVBRRAB",
+      "author": "Eitan Alter",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2023-10-20T15:45:51Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM1cXVESXNRRRAB",
+      "author": "nscb123",
+      "rating": 2,
+      "text": "",
+      "iso_date": "2023-10-12T15:46:55Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURaNjlQMGRREAE",
+      "author": "Josh Me",
+      "rating": 5,
+      "text": "Yum, delicious, nice people, definitely go here",
+      "iso_date": "2023-10-08T02:32:06Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURaNUlQSHhBRRAB",
+      "author": "Elisa F.R.",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2023-09-25T00:41:59Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNabU5Yc3hBRRAB",
+      "author": "Daniela Zambrana",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2023-09-03T16:06:33Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNac052cWRBEAE",
+      "author": "Roxanne Allegretti",
+      "rating": 5,
+      "text": "Incredibly delicious! Love that you can “build your own”! Yum!",
+      "iso_date": "2023-09-02T17:51:47Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURwbE9Ud2hRRRAB",
+      "author": "Eilon Chorev",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-08-16T16:38:10Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNwdGZIa2Z3EAE",
+      "author": "Chelsea Spika",
+      "rating": 5,
+      "text": "I got the pb&j crepe and it was FANTASTIC! So yummy I would totally come back again to try another one. They make it right in front of you which is fun! The staff wasn't very friendly (one was texting the entire time and the guy actually making the crepe didn't say a word to us) but otherwise it was a good experience. The food was at least worth it.",
+      "iso_date": "2023-08-07T21:56:04Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNwaWV5OTlBRRAB",
+      "author": "Julien Demare",
+      "rating": 1,
+      "text": "",
+      "iso_date": "2023-08-05T22:34:13Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNwOGRfb0NREAE",
+      "author": "Hector Javier Santos Pineda",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-08-05T21:41:03Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNwOGNhODZBRRAB",
+      "author": "Courtnei Smith",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-08-05T20:02:49Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNwMHMyVG13RRAB",
+      "author": "Fleur Touchard",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-07-31T23:30:08Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURKamVtcHN3RRAB",
+      "author": "Leonardo Torres",
+      "rating": 4,
+      "text": "It's a cozy place where a person can get a fast meal. The crepes aren't served in plates but in a laminated cone shaped container that enables the person to hold their crape in one hand. It would still be a good idea to get a fork before you go out to eat the contents of the crepe.",
+      "iso_date": "2023-07-21T19:14:53Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURKcUlMOUFREAE",
+      "author": "Claudia Gaitan",
+      "rating": 2,
+      "text": "Tourist trap! Way over priced, and not that good. Don’t get the sugar and butter crepe",
+      "iso_date": "2023-07-10T00:39:35Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNKbF9HaUtBEAE",
+      "author": "İbrahim Dost",
+      "rating": 1,
+      "text": "to come with my family to taste the crepes in this nice place but the service is absolutely disastrous. unsmiling and uninterested!! empty place but they fought hard not to fulfill our wishes. I also gave 20% type. It's too late to take it back. I definitely do not recommend",
+      "iso_date": "2023-07-06T17:58:23Z",
+      "date_label": "2 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUR4LXFEMGd3RRAB",
+      "author": "Joseph Richards",
+      "rating": 5,
+      "text": "I ordered the chicken pesto. It was so delicious! It came out very quickly. Good outdoor seating area (cute/comfy chairs!)",
+      "iso_date": "2023-06-06T18:15:34Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR4NHZTNGNREAE",
+      "author": "KYdeYR",
+      "rating": 1,
+      "text": "",
+      "iso_date": "2023-06-04T21:58:02Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN4MjhLR1JnEAE",
+      "author": "james calvin",
+      "rating": 1,
+      "text": "Witnessed a female employee get upset at a customer for asking for her order to be corrected. Despite the customer asking kindly and thanking the employee, the employee responded unprofessionally and snickered about the customer as soon as they left. I will not be returning here, despite living in the neighborhood.",
+      "iso_date": "2023-05-26T19:52:24Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN4Ml96Sy1RRRAB",
+      "author": "Rockiw Fashion",
+      "rating": 1,
+      "text": "Super rude women working there. If you want to continue having a a good day and not have it be ruined by crabby employees with no manners, don’t go here.",
+      "iso_date": "2023-05-26T19:48:16Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN4Mjl5RjRnRRAB",
+      "author": "Karyme D Cravioto",
+      "rating": 1,
+      "text": "I love the crepes from this place but the level of kindness and customer service depends on the staff that say. There’s a short woman who works on Thursdays a lot and every time I’ve gone in she’s been insanely rude. I could ask her how it’s going and kindly order and she always gives an attitude. I’ve had to ask her to remake drinks because of mistakes and the way she talked to me and basically threw the drink in my hands was so so rude. I avoid the shop when she’s there and am thinking of not going all together because of it. Would love to continue going here if you can hire kinder staff!",
+      "iso_date": "2023-05-26T19:45:02Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN4MXY3VU93EAE",
+      "author": "Rishanka Prabhu",
+      "rating": 5,
+      "text": "Great spot for a quick bite and a cup of coffee",
+      "iso_date": "2023-05-17T03:47:22Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN4aktheXR3RRAB",
+      "author": "Cami H",
+      "rating": 5,
+      "text": "Crepe was the perfect size for a treat. Exactly what I expected! I ordered the Nutella Strawberry Crepe.",
+      "iso_date": "2023-05-11T23:52:25Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURSNTlMY2t3RRAB",
+      "author": "Roman Grinblat",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-05-05T14:16:21Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURScTZtbmRREAE",
+      "author": "paige weksler",
+      "rating": 5,
+      "text": "Such a nice little store. The nutella crepes are amazing and the service is quick!",
+      "iso_date": "2023-05-04T02:02:53Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURSbll1X3dRRRAB",
+      "author": "Rotem Naor",
+      "rating": 1,
+      "text": "Terrible service!  Really expensive and really not tasty!  I will never go back there!",
+      "iso_date": "2023-05-01T17:38:56Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURSZ2U3ZnR3RRAB",
+      "author": "Andrea “Andy” Lopez",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-04-26T16:12:21Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNSeS0tNHZnRRAB",
+      "author": "Lilly Beinsteiner",
+      "rating": 4,
+      "text": "As a French person, this was good but not amazing. I think the price was fair, but honestly I was still hungry after my Nordic and I'm a small women... I've eaten a lot of crepes here in America and these were good.",
+      "iso_date": "2023-04-10T21:56:12Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNSNF9XeVhREAE",
+      "author": "S W",
+      "rating": 5,
+      "text": "Yum yum!!!",
+      "iso_date": "2023-04-09T19:15:52Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNSM1l1RTBnRRAB",
+      "author": "Dan Lazar",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-04-08T17:59:16Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNScW9LMER3EAE",
+      "author": "Vasyl",
+      "rating": 5,
+      "text": "Good place to relax after walking in the Central Park.  Good light food and coffee with crepes",
+      "iso_date": "2023-03-30T03:58:54Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNSbEpHRTFRRRAB",
+      "author": "Eoin O'Shaughnessy",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2023-03-26T00:48:11Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNSNUtLTVB3EAE",
+      "author": "Renaud Muller",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-03-25T18:25:13Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURobDdqZC1nRRAB",
+      "author": "Vladimir Serebryany",
+      "rating": 2,
+      "text": "There is seems to be no supervision in the store. People who work there for the first  day (literally) work without supervision and certainly don't know what they are doing. Cashier seems overworked and simply rude. Crepe ended up  been overcooked",
+      "iso_date": "2023-03-19T20:59:30Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURoaTVUR3ZRRRAB",
+      "author": "Céline A.",
+      "rating": 2,
+      "text": "Whoever is making the crêpe batter needs to check with corporate because the crêpes are dry.",
+      "iso_date": "2023-03-17T15:30:20Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNocHJxQmZnEAE",
+      "author": "Arleny Henriquez",
+      "rating": 1,
+      "text": "Expensive and bland would not recommend",
+      "iso_date": "2023-02-11T19:32:09Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURCMXNQUlN3EAE",
+      "author": "Ilonka Pichardo",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2023-01-18T21:54:13Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNCN2ZxRkpnEAE",
+      "author": "Sean Hale",
+      "rating": 5,
+      "text": "Pricey but absolutely delicious savory and sweet crepes. Definitely worth checking out!",
+      "iso_date": "2023-01-01T19:58:41Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNCbWQyQkJBEAE",
+      "author": "Rodney Schuler",
+      "rating": 5,
+      "text": "Creeps with a great variety of toppings both sweet and savory. Had the buckwheat with ham, mushrooms and gruyere. Delicious!",
+      "iso_date": "2022-12-29T18:11:09Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQtd283RlFREAE",
+      "author": "Chris Murphy",
+      "rating": 3,
+      "text": "Have had better",
+      "iso_date": "2022-11-24T20:19:59Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQtMkptMDhBRRAB",
+      "author": "Tamica Joseph",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2022-11-20T18:29:13Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUMtLTkyQ25nRRAB",
+      "author": "Tacoma “qf” SanJuan",
+      "rating": 5,
+      "text": "About 10:00 a.m. on Wednesday morning when he visited. Not too many customers at the moment. Gentleman behind the counter quickly took our order and got to work on our Crepes. It was fun to watch him as he started to build each of them. Great coffee. Enjoy your Crepes and coffee while sitting outside nice sitting area. Very enjoyable. Crepes delicious.",
+      "iso_date": "2022-11-14T20:56:38Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMtOHJhcmRREAE",
+      "author": "El Pt",
+      "rating": 3,
+      "text": "Undercooked crepe with minimal ingredients.  Place looks  clean. I wish food they serve was better",
+      "iso_date": "2022-10-31T15:45:24Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURlN295SnBnRRAB",
+      "author": "Janet C",
+      "rating": 5,
+      "text": "Excellent!! I did the build your own crepe and it was delicious and decadent. Will definitely return!",
+      "iso_date": "2022-10-10T19:52:37Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURlem8zWmt3RRAB",
+      "author": "Juan Campos Gutierrez",
+      "rating": 1,
+      "text": "Avoid this place. They are super cheap, just a few slices of fruit and little Nutella. These crepes are mediocre",
+      "iso_date": "2022-10-10T14:42:56Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURlOHVmVnpnRRAB",
+      "author": "Joaquin Cruces Adrados",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2022-10-07T03:05:09Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNlbjV2b0hREAE",
+      "author": "Ann Mitchell (Art by Ann Mitchell)",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2022-09-27T20:51:15Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNldV9hSm13RRAB",
+      "author": "Deedie Roze",
+      "rating": 5,
+      "text": "The crepes are good, service is fast, and the staff is friendly in a serene setting.  This is is a good place to read a newspaper or book.",
+      "iso_date": "2022-09-24T23:52:03Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNlODlmQW5nRRAB",
+      "author": "Francesca Bruna Pipino",
+      "rating": 3,
+      "text": "Coffe is not good… crêpe is okay, the ingredients are average quality",
+      "iso_date": "2022-09-23T14:59:52Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNlNHFfZ3dRRRAB",
+      "author": "Rebecca Butcher-Rivera",
+      "rating": 4,
+      "text": "Love the GF crepes here!",
+      "iso_date": "2022-09-10T00:01:07Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNld3JtOURBEAE",
+      "author": "Robert Schall",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2022-09-09T14:14:31Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR1anRyT2N3EAE",
+      "author": "Ted Lightfoot",
+      "rating": 5,
+      "text": "Delicious with a nice blend of traditional and creative options (the buckwheat was with trying). My daughter just kept eating them.",
+      "iso_date": "2022-08-20T19:02:55Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR1N09tSURnEAE",
+      "author": "felipe valek",
+      "rating": 2,
+      "text": "Overprice",
+      "iso_date": "2022-08-15T16:08:37Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURPai0yWlpnEAE",
+      "author": "J",
+      "rating": 5,
+      "text": "gruyere forever",
+      "iso_date": "2022-07-17T01:28:35Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURPbV8zY2hnRRAB",
+      "author": "Romans 8:31",
+      "rating": 4,
+      "text": "The crepes are decent 👌",
+      "iso_date": "2022-07-14T19:09:08Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURPbTcybHVRRRAB",
+      "author": "Adaiah",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2022-07-14T19:08:04Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURPaHZmcmJREAE",
+      "author": "Tommy Lin",
+      "rating": 5,
+      "text": "Awesome place, I loved the food, Samantha's service was excellent. I was surprised to see that she was able to make 3 crepes at the same time. I would definitely come back!",
+      "iso_date": "2022-07-03T23:26:35Z",
+      "date_label": "3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNPMGNLWDlRRRAB",
+      "author": "Kaitlyn Marie",
+      "rating": 4,
+      "text": "Yum! I love Vive la Crepe. It is dangerously close to where I stay when I'm in NYC. All the options they have are fantastic and delicious. They are also super fast. I'm usually a strawberry Nutella girl, but I've been trying to branch out and everything I've tried has been awesome. I definitely reccomend the baked apples, especially with Nutella.\n\nMy only complaints: 1) sometimes when I've gotten strawberries they seem to be a little past their use-by date. Too mushy and tasted off.🍓 2) its expensive! Over $10 for each crepe. Obviously, UWS and NYC ain't cheap but it's definitely got to be more of a splurge than a regular because I can't afford that all the time. 🤣",
+      "iso_date": "2022-06-12T15:04:36Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNPdXU2R1BnEAE",
+      "author": "Kami Schloss",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2022-06-07T20:55:20Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNPaVAzRnpRRRAB",
+      "author": "Olivier",
+      "rating": 4,
+      "text": "Good but a little overpriced",
+      "iso_date": "2022-05-31T02:50:39Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQyaHBqTVJnEAE",
+      "author": "Andrew Simeon",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2022-05-13T01:16:14Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQyb0p6V2lBRRAB",
+      "author": "Pavel Sha",
+      "rating": 4,
+      "text": "Great crepes. Delicious",
+      "iso_date": "2022-05-03T11:10:54Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURXa19TelJ3EAE",
+      "author": "Tomohiro Fujimaki",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2022-04-03T03:04:43Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURXbnNMNnBRRRAB",
+      "author": "Beth-Ann Young",
+      "rating": 4,
+      "text": "So convenient and who designed the paper wraps? The crepe delectably and delicately falls apart in your mouth. The ingredients were well thought out. Such a tasty meal!",
+      "iso_date": "2022-03-24T23:25:25Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXM2JmLXRBRRAB",
+      "author": "Drashko Nakikj",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2022-03-04T17:28:28Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtOTVYYXdnRRAB",
+      "author": "Valentine Marsac",
+      "rating": 1,
+      "text": "",
+      "iso_date": "2022-02-12T16:03:56Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtczRfSWh3RRAB",
+      "author": "Lu San",
+      "rating": 4,
+      "text": "Love their crepes!",
+      "iso_date": "2022-02-08T19:40:05Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtd2FyNXJnRRAB",
+      "author": "David Sharvit",
+      "rating": 3,
+      "text": "Not so good to be honest but the staff are super nice and friendly",
+      "iso_date": "2022-01-30T16:08:34Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtNW9hY0pBEAE",
+      "author": "Derry Li",
+      "rating": 5,
+      "text": "Their gluten free savory crepes are delicious and very filling. Service was excellent. Would highly recommend for anyone wanting crepes, esp a gluten free one!",
+      "iso_date": "2022-01-27T04:50:55Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtZ3ZIQzN3RRAB",
+      "author": "Sylvester Ami",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2022-01-22T16:58:01Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtaHZ6YzVnRRAB",
+      "author": "Ilya Beylin",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2021-12-26T16:18:44Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtNnNhdmRnEAE",
+      "author": "Ashley Venable",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2021-12-25T03:49:34Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURHX0s3bkx3EAE",
+      "author": "Simone Mack",
+      "rating": 2,
+      "text": "good crepes, rude staff though plus i saw a mouse",
+      "iso_date": "2021-11-21T22:43:23Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNHbGZta3JBRRAB",
+      "author": "Agusto Chivossio",
+      "rating": 3,
+      "text": "Tried their breakfast crepe - nothing special, way overpriced for what they offer. Did not see much variety either. I suspect many reviewers with the exciting reviews just never been to a truly quality crepe place.",
+      "iso_date": "2021-11-04T21:39:03Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NDY2ZWJREAE",
+      "author": "AsiaLuna Patlis",
+      "rating": 1,
+      "text": "So overpriced!!!! I spent $12 dollars on a Nutella strawberry crepe with whipped cream and $6 on a “large” dulce de leche macchiato that was more of coffee with milk. The strawberries were not fresh. My friend got a mushroom spinach cheese crepe for $11 with barely any ingredients (2 mushrooms). Will never be returning. Lots of crepe places close by for better and cheaper.",
+      "iso_date": "2021-10-10T00:47:44Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2N2RtMkFREAE",
+      "author": "Isela “EPStrong” Avila",
+      "rating": 4,
+      "text": "Tasty crepes and great iced coffee!",
+      "iso_date": "2021-10-08T02:25:05Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eHVLU3pRRRAB",
+      "author": "Ed 1",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2021-09-28T01:03:34Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2aXRTQlN3EAE",
+      "author": "Lissete Sevilla",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2021-09-25T21:14:05Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cUoycVp3EAE",
+      "author": "Serena Banfi",
+      "rating": 2,
+      "text": "",
+      "iso_date": "2021-09-19T15:18:09Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM2cHZDczN3RRAB",
+      "author": "Svetlana Rumina",
+      "rating": 5,
+      "text": "A wonderful sweet aroma of freshly made crepes is a first thing you hear upon walking in🥰\n\nCooks make everything right in front of you, so it's quite mesmerizing to watch them carefully fold different fillings into the crepes. They seem to have a tidy cooking station, so that also a good sign.:)\n\nCrepes taste delicious. We got a Sundae Crêpe😋 and a latte with oat milk (which also was great).\n\nThey have a few tables (inside and outside seating available), and were about 70% full on Friday early afternoon.\n\nBonus: clean bathroom with a cute mirror 🧐",
+      "iso_date": "2021-09-03T18:41:50Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhanNYZElnEAE",
+      "author": "Shawn Ev",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2021-08-21T18:23:18Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURhdEphSHVnRRAB",
+      "author": "Brett Nelson",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2021-08-16T12:25:16Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhbXBtaFVBEAE",
+      "author": "gaby rivas",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2021-07-29T00:08:35Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURxc2ZEekR3EAE",
+      "author": "Andrew Stylianou",
+      "rating": 2,
+      "text": "Underwhelmed and overpriced",
+      "iso_date": "2021-07-11T20:14:32Z",
+      "date_label": "4 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxaGJlci13RRAB",
+      "author": "Nick Felker",
+      "rating": 4,
+      "text": "Had a good savory crepe",
+      "iso_date": "2021-06-12T21:36:35Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxenZpTEVREAE",
+      "author": "Germán Antonio Reyes",
+      "rating": 5,
+      "text": "Great crepes, fast service, friendly staff",
+      "iso_date": "2021-06-06T20:14:28Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxNEx1cVlBEAE",
+      "author": "Castle Factory",
+      "rating": 2,
+      "text": "Caprese crepe is bland as hell and not good. Friend got chicken pesto and liked it so idk. Caprese is terrible though.",
+      "iso_date": "2021-05-23T17:51:15Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxd05YMkpREAE",
+      "author": "Golnoosh",
+      "rating": 5,
+      "text": "Je meilleure crêperie",
+      "iso_date": "2021-05-23T01:26:43Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURLMU03ZkpnEAE",
+      "author": "Shady Mina",
+      "rating": 5,
+      "text": "Very good crepe place. Delicious, tasty, clean!",
+      "iso_date": "2021-05-01T13:18:05Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNLcGZ2ZHlRRRAB",
+      "author": "Juancy Rodríguez",
+      "rating": 4,
+      "text": "A nice spot for some sweet or savory crêpes. Efficient and clean, COVID-safe service, with outdoor and indoor seating - or grab-and-go with the handy carton crêpe ❤️ holder!",
+      "iso_date": "2021-04-12T17:27:17Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNLLVlYY0l3EAE",
+      "author": "Nathaly Ortega",
+      "rating": 5,
+      "text": "Deliciosas crepas, buena atención, buen precio",
+      "iso_date": "2021-04-11T19:10:29Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN5ZzgtRkZREAE",
+      "author": "Suz Sims-Fletcher",
+      "rating": 5,
+      "text": "Part of the five stars is that this was exactly what we wanted - a warm sweet on a cold day.  With our cheesecake crepes ($10) we each had a hot beverage, and ate outside (socially distanced, you know). Both the crepe and the beverage were delicous.\n\nNOW....it isn't cheap.  with tax and tip we were close to $20 each....so maybe keep this for an indulgence.\n\nThe crepes LOOK small ( thin) in their cute little cardboard holders - BUT they are, in fact, the right size (and crepes are thin).\n\nI will go back when I am feeling like I was today:  in NEED of just this thing!",
+      "iso_date": "2021-02-10T23:15:04Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURTdV9UVnVBRRAB",
+      "author": "Lauren DeFazio",
+      "rating": 5,
+      "text": "Excellent! Absolutely delicious and made with the most care. Kind and friendly staff, tasty fresh ingredients...I will definitely be back! Highly recommend!",
+      "iso_date": "2021-01-10T17:25:06Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNpLVlmendRRRAB",
+      "author": "Wyatt Cornell",
+      "rating": 4,
+      "text": "Fantastic food and it wasn't too busy. However, it was very expensive. The food was almost worth the price",
+      "iso_date": "2020-11-08T14:20:38Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ4eWE3RDFnRRAB",
+      "author": "Ronan H",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2020-07-19T20:13:57Z",
+      "date_label": "5 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURzaEs3MGxnRRAB",
+      "author": "Josh Zignego",
+      "rating": 5,
+      "text": "It’s a little pricey, but you kind of know that going in. The classic Nutella crepe with berries was delicious",
+      "iso_date": "2020-02-23T16:33:11Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURzaE5LVXZnRRAB",
+      "author": "Rurik Nackerud",
+      "rating": 2,
+      "text": "This crepe place is as Taco Bell is to authentic Mexican food. The people can be extremely nice or rude. All in your luck. Perhaps more of a slow subway rather than Taco Bell?\n\nIf you want an okay crepe - it might be there. I tried this place a couple times and, while they advertise a gluten free crepe, they cook it on the same griddle as the flour crepe. So I won’t return. Aside from that - their cheese, veggies, and non-sweet ingredients have an off odor. I love watching them cook - our in the open - but this is what tuned me into the potentially spoiled or near to spoiled food issue.\n\nProbably great if you have a fast food stomach and no allergies. I imagine that the individual in a hurry would be frustrated by the long wait - and yet that is the quality of the crepe.",
+      "iso_date": "2020-02-23T15:54:20Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNzNTVPbnN3RRAB",
+      "author": "Randy Weinstein",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2020-02-16T21:23:18Z",
+      "date_label": "Edited 3 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNzODdtOHRnRRAB",
+      "author": "Linda Delgado",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2020-02-14T01:35:37Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNzamVuODVBRRAB",
+      "author": "Alexander Paulavec",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2020-02-10T02:20:21Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNzOGNINmFREAE",
+      "author": "Sarka Hyblova",
+      "rating": 5,
+      "text": "Great spot for a quick break",
+      "iso_date": "2020-02-05T20:49:25Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNzb3J5TGJ3EAE",
+      "author": "Marcos Cavalcanti",
+      "rating": 4,
+      "text": "Good crepe, but it's not the real french crepe...",
+      "iso_date": "2020-01-26T18:35:16Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNzbE5DZE9nEAE",
+      "author": "Saul Kaiserman",
+      "rating": 5,
+      "text": "My kids love this place... But so do lots of folks so it can get a little crowded at meal times. Gluten free options.",
+      "iso_date": "2020-01-22T23:54:57Z",
+      "date_label": "Edited 6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNzNE1TR2xRRRAB",
+      "author": "David Linder",
+      "rating": 5,
+      "text": "This is a great spot for a midday meal in the neighborhood. Their savory crepes are delicious, and they even made our two-year-old son a special dessert crepe. Great service and great coffee too.",
+      "iso_date": "2020-01-18T17:54:14Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURNMFotLU5REAE",
+      "author": "Ana T. Pimentel",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2020-01-02T19:49:21Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURNN3Z2Z19BRRAB",
+      "author": "Brennen Wonka",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-12-30T21:34:56Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURNeU5fQ0N3EAE",
+      "author": "David Law",
+      "rating": 2,
+      "text": "Slightly overpriced, mediocre ham, can use some smile",
+      "iso_date": "2019-12-14T23:27:41Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURNNE5qekNBEAE",
+      "author": "Michael Le",
+      "rating": 2,
+      "text": "Stopped in wanting a sweet crepe as a dessert in a way.  I had high hopes based on the reviews but was skeptical based on the pictures.  Despite some reservations, I decided to give it a try.  I ordered a sweet crepe with cream cheese and strawberries.\n\nHere's the thing - at over $10 for this combination sweet crepe, I was expecting a bit more than just a crepe with a bit of cream cheese blobs and some sliced strawberries, but sadly, this was exactly what I got.  It was literally just cream cheese squeezed in various lines across the crepe  before it was folded in a french style tri-fold fashion.\n\nI get it, this is French style crepe and that's fine.  But for over $10 I was expecting a whole lot more.  The crepe itself is nothing special and pretty flavorless.  It wasn't buttery.  It wasn't sweet.  It was just ... blah.\n\nIf you are coming here thinking you're going to get something similar to a Japanese style crepe with ice cream, etc.  You are sadly mistaken.  Go to T-Swirl as that's probably the closest thing you'll get to a japanese style crepe in NYC.\n\nIf you're coming here thinking you'll get a good, sweet, french style crepe with quality toppings and delicious buttery sweet crepe.  You will still be sadly mistaken.\n\nI'm not sure why there are such good reviews.  It's just not a good crepe for over $10.  If it only cost $5 - I might be ok with it.  But for the price, Viva La Crepe is a HUGE disappointment.",
+      "iso_date": "2019-12-13T03:17:35Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNNcDhXM0NREAE",
+      "author": "Jean London",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-12-08T16:04:01Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNNdS1YZ0h3EAE",
+      "author": "Crazy AboutJCrew",
+      "rating": 4,
+      "text": "Delicious crepes in a very cute setting. Can be crowded at 3-4 om when kids in the area gets out of school. Quite expensive (crepes are around $9) but worth it.",
+      "iso_date": "2019-12-07T14:43:48Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNNNDUyY0VnEAE",
+      "author": "Paul Gerbino",
+      "rating": 4,
+      "text": "very simple and good.   Mushrooms and cheese and tomato sauce were delicious.  Needed a light lunch.",
+      "iso_date": "2019-12-03T20:40:21Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNNNWNmamNREAE",
+      "author": "Zeroweird V",
+      "rating": 5,
+      "text": "Always on point with friendly staff and service.",
+      "iso_date": "2019-11-28T15:18:36Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNNNmIyeDlBRRAB",
+      "author": "Todd Gharring",
+      "rating": 3,
+      "text": "Not bad, but not really great. I get so excited to have crepes and then I start eating and think this is just OK. Nothing memorable. Also, you would expect something better with the prices they charge.",
+      "iso_date": "2019-11-25T19:33:12Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNNc3Mta3JnRRAB",
+      "author": "Laura Beltre",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-11-19T23:01:56Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQwdmVIUWdnRRAB",
+      "author": "Ronald Olaizola",
+      "rating": 3,
+      "text": "The crepe was alright. Would've been better if they put more nutella in it. Service is good and the place is nice and cozy. ~$10 for a crepe with nutella and banana slices.",
+      "iso_date": "2019-11-17T03:56:15Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQwcmZYZ2x3RRAB",
+      "author": "John Gannon Padgett",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-11-15T22:53:09Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQwMXJHNHJBRRAB",
+      "author": "Abella juarez",
+      "rating": 2,
+      "text": "",
+      "iso_date": "2019-11-04T04:22:06Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQwLXNUNUNBEAE",
+      "author": "mh e",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-11-02T11:28:49Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQwa3J1VkhBEAE",
+      "author": "Annieh",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-10-29T20:12:59Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQwd3Rhd2R3EAE",
+      "author": "Doyeun Kim",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2019-10-28T17:18:24Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQwME1pUGZBEAE",
+      "author": "James L",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-10-19T00:35:01Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwajluS0ZBEAE",
+      "author": "Boaz Gilad",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2019-10-14T20:06:41Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwajVUSFZnEAE",
+      "author": "nanou Chka",
+      "rating": 1,
+      "text": "I had Matcha Latte ...over 6 $ with taxes for 12 oz. Very pricey for a drink especially when it's blent ...",
+      "iso_date": "2019-10-14T16:53:17Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwaDkzMlJREAE",
+      "author": "Andy Lanning",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-10-12T15:47:13Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwMjRTX2VBEAE",
+      "author": "Marianne Friedman",
+      "rating": 5,
+      "text": "Gluten-free cinnamon apple crepe!!! Yum",
+      "iso_date": "2019-10-11T14:57:34Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwODd1eGR3EAE",
+      "author": "Tyler Pullen",
+      "rating": 5,
+      "text": "Great variety of sweet and savory crepes for reasonable prices. Would recommend!",
+      "iso_date": "2019-10-10T01:01:23Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwcmQydEdREAE",
+      "author": "Yessenia Nin",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-10-06T16:53:25Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUMwdWVpNHhnRRAB",
+      "author": "Константин Андреевич Снытко",
+      "rating": 5,
+      "text": "Wanna try dulce de leche crepes",
+      "iso_date": "2019-10-03T01:15:57Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwbHVlX0V3EAE",
+      "author": "Jacob Tejeda",
+      "rating": 3,
+      "text": "It's ok crepe little more consistent with the preparation of the crepes",
+      "iso_date": "2019-09-25T11:15:13Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMwOVBhSmNnEAE",
+      "author": "Michal Net",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-09-16T14:45:23Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURVMzU3dEVnEAE",
+      "author": "Brian Mayers",
+      "rating": 5,
+      "text": "Descent place a little on the pricy side but tasty 🤑",
+      "iso_date": "2019-09-09T16:06:32Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURVMWJIaUtBEAE",
+      "author": "Angela",
+      "rating": 5,
+      "text": "Always a  amazing treat.",
+      "iso_date": "2019-08-30T16:57:23Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURVb3ZiTm93RRAB",
+      "author": "Jacques Koffaltretes",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-08-18T09:07:01Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURVMEplU2FnEAE",
+      "author": "silvio garola",
+      "rating": 5,
+      "text": "good quality at a right price",
+      "iso_date": "2019-08-11T17:30:30Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURVd09YWS1BRRAB",
+      "author": "ILIA SOKOV",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-08-10T20:02:36Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURVZ0pQTnVRRRAB",
+      "author": "David Mansour",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-08-10T16:43:02Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNVejh6NnpRRRAB",
+      "author": "Andrei Cristian",
+      "rating": 3,
+      "text": "Good crepes but the variety is lacking and the pricing is steep for what it is.",
+      "iso_date": "2019-08-08T22:26:19Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNVaDYtWWZnEAE",
+      "author": "Payton Gray",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-08-06T20:24:35Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNVMklfTXVnRRAB",
+      "author": "Diego Sanchez",
+      "rating": 4,
+      "text": "It's a bit costly for what you get. But the crepes are good and the spot in a very convenient area.",
+      "iso_date": "2019-07-17T00:14:55Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNVc0o2c2dRRRAB",
+      "author": "jose berrios",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-07-15T02:44:12Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURreTVPY2NREAE",
+      "author": "Chip Michael",
+      "rating": 5,
+      "text": "OMG, fast and delicious",
+      "iso_date": "2019-07-08T04:30:06Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURrZzhIejN3RRAB",
+      "author": "Daniel Like",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-07-05T21:12:56Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURrM2ZqTXl3RRAB",
+      "author": "Daynne Wilder",
+      "rating": 5,
+      "text": "Cool place",
+      "iso_date": "2019-07-04T22:58:47Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURrMmZqaldREAE",
+      "author": "Rodrigue Thimothee",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-06-30T17:22:15Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURrbnZlSlVREAE",
+      "author": "Ulli B.",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-06-26T11:23:33Z",
+      "date_label": "6 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNreXFqNDlRRRAB",
+      "author": "Kayden Lee",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-06-22T00:34:26Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNraXBtQlBREAE",
+      "author": "Leah D'Antonio",
+      "rating": 5,
+      "text": "Go classic - ham & cheese or banana nutella",
+      "iso_date": "2019-06-21T22:54:19Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURFcG9EUFZ3EAE",
+      "author": "Irina Tuseeva",
+      "rating": 5,
+      "text": "So delicious, stuff is friendly and helpful.",
+      "iso_date": "2019-06-19T17:19:59Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ0aUt2WTdnRRAB",
+      "author": "Jennifer Azer",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2019-06-12T17:24:57Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM0eWVPRVZBEAE",
+      "author": "PN",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-06-08T23:07:47Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM0c2NlcWx3RRAB",
+      "author": "Christel Rucker",
+      "rating": 4,
+      "text": "The crepe was delicious and I understand that being in NYC, trying to keep the restroom full of paper towels could be a problem. The restroom was very clean",
+      "iso_date": "2019-06-08T09:27:53Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM0enVXSDJRRRAB",
+      "author": "Quinetta Blyther",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-06-06T08:47:58Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURZel92MXNnRRAB",
+      "author": "Megan Passanisi",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-05-27T18:04:06Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURZNjlEc3N3RRAB",
+      "author": "Xiangyi Meng",
+      "rating": 5,
+      "text": "Missing this place",
+      "iso_date": "2019-05-23T12:13:47Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURZazkycHl3RRAB",
+      "author": "Maki Maki",
+      "rating": 5,
+      "text": "Great 👍",
+      "iso_date": "2019-05-21T14:34:01Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURZbmJUQzhnRRAB",
+      "author": "J",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-05-18T20:25:09Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURZamVHY3NRRRAB",
+      "author": "Michael Fox-Rabinovitz",
+      "rating": 4,
+      "text": "Good quality ingredients and solid product",
+      "iso_date": "2019-05-17T17:42:18Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURZOW9LWi1BRRAB",
+      "author": "David Martinez",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-05-11T23:47:09Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURZdHF6cThBRRAB",
+      "author": "sandy",
+      "rating": 1,
+      "text": "Nah",
+      "iso_date": "2019-05-11T16:45:18Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURZd3FlZU53EAE",
+      "author": "Sahil Panwar",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-05-05T00:04:02Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURZMUpEUURREAE",
+      "author": "Tingting Gao",
+      "rating": 5,
+      "text": "路过看见招牌写着可丽饼，即使刚吃完饭还是忍不住进来吃一个。超级喜欢薄薄的法式可丽饼。很好吃。点了白巧克力酱加草莓。简直绝配。",
+      "iso_date": "2019-05-01T01:53:41Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNZdC03Qld3EAE",
+      "author": "Lourdes Lewis",
+      "rating": 4,
+      "text": "Besides the Music being too loud n no AC.. it was awesome the food was excellent n drink's.",
+      "iso_date": "2019-04-24T04:43:40Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNZLS1IUV93RRAB",
+      "author": "Brenda Segura",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-04-21T21:46:04Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNZMVpIZ19nRRAB",
+      "author": "William Gonzalez",
+      "rating": 5,
+      "text": "Delicious",
+      "iso_date": "2019-04-16T22:30:21Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNZNGN1TVpREAE",
+      "author": "Abi S",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-04-13T02:44:44Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNZNkkyMkJREAE",
+      "author": "Matt Mori",
+      "rating": 5,
+      "text": "Enjoyed sugar crepe w fruit. Great staff!",
+      "iso_date": "2019-03-31T23:47:06Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURvMTZEQVZnEAE",
+      "author": "Denys Panin",
+      "rating": 1,
+      "text": "What they served me was not really a crepe. It was too thick and crispy which a crepe shouldn't be. And it was filled with raw mushrooms and spinach.",
+      "iso_date": "2019-03-24T17:56:27Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURveUxLbzNnRRAB",
+      "author": "Harper W",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-03-10T02:06:58Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNveDdITFFBEAE",
+      "author": "Nancy Sasia",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-03-03T12:28:39Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNvLTlXSWZBEAE",
+      "author": "Jeff Mandell",
+      "rating": 4,
+      "text": "Mmmmm",
+      "iso_date": "2019-03-02T19:50:39Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNveV9QZ2lRRRAB",
+      "author": "渡邊言也",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2019-02-28T23:41:55Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNvdmF2b3h3RRAB",
+      "author": "ThePescatarianbunhead",
+      "rating": 4,
+      "text": "So I got the buckwheat crepe and it was amazing, definitly coming agin! But I regret getting the milkshake, it wasnt worth it so I wont get it again.",
+      "iso_date": "2019-02-24T20:08:29Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNvbmFMSklREAE",
+      "author": "Grégoire Marcel",
+      "rating": 5,
+      "text": "Très bonnes crêpes. Même la crêpe raclette était délicieuse !\nVrais Expresso, ce qui est rare !",
+      "iso_date": "2019-02-23T23:30:45Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNvZ2Z5X2pBRRAB",
+      "author": "darren Skomorowsky",
+      "rating": 3,
+      "text": "Decent but not wow. Similar to most chain creperies. The batter was dry.",
+      "iso_date": "2019-02-18T02:54:15Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURJbnJMaHNBRRAB",
+      "author": "Zoe Thompson",
+      "rating": 4,
+      "text": "The savory crepe we had was phenomenal, but the cream cheese crepe we had could've been exacuted better. They have gluten free crepes!",
+      "iso_date": "2019-01-06T00:51:34Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURJN28zT3BRRRAB",
+      "author": "john pattavina",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-01-05T19:59:38Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURJanByellBEAE",
+      "author": "hardcore kid",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2019-01-04T18:59:19Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURJanNyclJ3EAE",
+      "author": "Antonio A",
+      "rating": 5,
+      "text": "Great crepes! I was loving all the natural juices they had. And the customer services was impecable.",
+      "iso_date": "2019-01-04T18:49:45Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURJbHU3WFBBEAE",
+      "author": "Angie",
+      "rating": 5,
+      "text": "Wish I had a picture to show how delicious our meal was! Customer service was great.\nYou won't be disappointed if you eat here.",
+      "iso_date": "2019-01-03T15:32:18Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURJa3RpN2xBRRAB",
+      "author": "Nerissa McCollin",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-12-28T19:04:27Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURJN0pXWGRREAE",
+      "author": "Christopher S",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-12-25T21:38:25Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURJN0liOFBnEAE",
+      "author": "Al Cohen",
+      "rating": 4,
+      "text": "Bottom line - crepes are fun!  This location of the mini-chain creperie is bright and cheery. There are cafe tables and window bar that's good for watching the steady foot traffic on Columbus Ave. The crepes are tasty - savory or sweet choices, though they seem a bit overpriced for the small amount of fillings. The coffee seems to have a high level of sediment which is either a maintenance issue on the equipment or they're using the incorrect grind size for their equipment. Staff is friendly. Having real plates and coffee cups for eat in would make a difference.",
+      "iso_date": "2018-12-25T17:59:20Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURJb04yb1pREAE",
+      "author": "Grace Wingerter",
+      "rating": 1,
+      "text": "Website says open at 8 am, sign on the door says open at 8 am. I arrived at 8:45 to a locked door and was turned away by the employees inside.  I’ll take my business to somewhere who wants it.",
+      "iso_date": "2018-12-16T14:03:47Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNJai1ielh3EAE",
+      "author": "Monique Chan",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-12-12T19:44:04Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNJMllIcU9REAE",
+      "author": "Martha Arenas",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-11-25T04:27:24Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNJaVpIdkNBEAE",
+      "author": "Oliver Sunde",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-11-22T16:16:23Z",
+      "date_label": "Edited 7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNJZ2FpUWRnEAE",
+      "author": "Sherri Grey",
+      "rating": 5,
+      "text": "We have eaten here every day of our NY vacation. Sweet and savory crepes, all delicious so far. Wish we had a comparable crepe joint in our town.",
+      "iso_date": "2018-11-18T15:42:59Z",
+      "date_label": "Edited 7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNJdW9teDl3RRAB",
+      "author": "C",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-11-10T03:54:00Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNJalAzTzl3RRAB",
+      "author": "Brian Samek",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-10-29T22:57:03Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUR3c3BMdnZnRRAB",
+      "author": "surfboarderA",
+      "rating": 4,
+      "text": "Good gallettes and accommodating staff.",
+      "iso_date": "2018-10-26T16:29:06Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUR3ck1uZ3VRRRAB",
+      "author": "Fanny Mejia",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-10-26T00:11:58Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUR3enVQSzBRRRAB",
+      "author": "Claudia Lobo",
+      "rating": 5,
+      "text": "Personas muy amables, y riquisimas crepes",
+      "iso_date": "2018-10-12T23:33:23Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURBMzZYdVpREAE",
+      "author": "Natalie Brenes",
+      "rating": 5,
+      "text": "Friendly staff and the spinach, goat cheese, mushroom, basil crêpe was good! Felt a little expensive for the size, but not bad.",
+      "iso_date": "2018-10-08T18:39:06Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNBeHVMbFdnEAE",
+      "author": "will T",
+      "rating": 4,
+      "text": "great place. I kept it simple just a little powdered sugar with a hot coffee. This is a great place nice service and delicious crepes what else can you ask on a sunday morning.",
+      "iso_date": "2018-09-30T16:12:27Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN3N3FIalFREAE",
+      "author": "Maria Benyaminov",
+      "rating": 5,
+      "text": "Great crepe!",
+      "iso_date": "2018-09-30T15:39:33Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURRNDlQMFdREAE",
+      "author": "Malgorzata Blaszkiewicz",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-09-25T16:31:07Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURnOW9QX3RnRRAB",
+      "author": "Mel Reid",
+      "rating": 5,
+      "text": "Great food and coffee!  Gruyere and ham was really good!",
+      "iso_date": "2018-09-23T16:16:19Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNRbXRHM0JREAE",
+      "author": "Guillaume Criloux",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2018-09-20T22:08:24Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN3aE8zbl93RRAB",
+      "author": "Sophie Lee",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-08-20T21:07:32Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURBOWVyQlN3EAE",
+      "author": "Basil Moore",
+      "rating": 4,
+      "text": "THIS PLACE HAS THE BEST CREPES IN THE WORLD!!!!!!\n\n$\n\nService is casual\n\nAtmosphere is ok\n\nDecoration is great!\n\nFood is like THE BEST!!!\n\nSo, yes, Vive la Crepe!\n\nGo to this place! It will be worth it! And as always, Vive La Crepe!",
+      "iso_date": "2018-08-13T19:13:25Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNnajR1bXZnRRAB",
+      "author": "Syd Bloom",
+      "rating": 5,
+      "text": "Delicious.",
+      "iso_date": "2018-08-11T03:00:47Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURROU5MTGZREAE",
+      "author": "For the love of Animals",
+      "rating": 3,
+      "text": "Came for cold drinks, happy for seating and a/c just right but This place cats to mindless mother's  children running around . Definitely not a place to relax and enjoy what you ordered.",
+      "iso_date": "2018-08-09T01:15:38Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURReUtDYkJBEAE",
+      "author": "Andrea Guerrero",
+      "rating": 3,
+      "text": "I was craving a crepe and decided to try this. I think it's better to choose a savory one to get your money's worth. The sweet ones are overpriced even if it is Manhattan. If you get nuts or fruit it is extra, and ice cream will add $4 more...simply alright...",
+      "iso_date": "2018-08-06T22:15:53Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN3dDhMU09REAE",
+      "author": "Kenya Baldwin",
+      "rating": 5,
+      "text": "I always receive great service when I visit I absolutely love and adore Shaday and Tanile they are amazing great service skills excellent communication and I appreciate that.",
+      "iso_date": "2018-07-27T15:41:20Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBN0thLTVRRRAB",
+      "author": "jasmani garcia",
+      "rating": 5,
+      "text": "I think they might sell the best crepes in NYC.",
+      "iso_date": "2018-07-22T04:36:58Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURBeVpqaE1nEAE",
+      "author": "Grant Beltrami",
+      "rating": 3,
+      "text": "paid $40 for 2 ok crepes and 2 drinks. decent but  not worth the price",
+      "iso_date": "2018-07-11T17:52:47Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN3NVkyQXVRRRAB",
+      "author": "Katlyn Phillips",
+      "rating": 5,
+      "text": "Crepes are delicious. I highly recommend the spinach, goat cheese, mushroom , and basil. Take it to go and enjoy on the lawn in Central Park just a block away.",
+      "iso_date": "2018-07-08T14:00:37Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN3d09tcHJBRRAB",
+      "author": "Marvin Anderson",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2018-07-08T01:43:05Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnd3NQOVdnEAE",
+      "author": "Fred Benton",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-06-30T15:53:05Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnd2N5bkFREAE",
+      "author": "Mint Iannucci",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2018-06-28T19:28:20Z",
+      "date_label": "7 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNndjZ5enF3RRAB",
+      "author": "Jyllian",
+      "rating": 5,
+      "text": "Food was good, staff was nice. I felt like the prices were reasonable and the restaurant was clean.",
+      "iso_date": "2018-06-09T22:49:33Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURnLWRXeW5nRRAB",
+      "author": "Joseph Passanisi",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2018-05-27T13:14:15Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURRZ092RnhBRRAB",
+      "author": "gregory pacheco",
+      "rating": 1,
+      "text": "",
+      "iso_date": "2018-05-23T18:30:34Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNnMGN2WHd3RRAB",
+      "author": "Mario Camargo",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-05-09T03:52:32Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNRb19HdGRBEAE",
+      "author": "Joann Tirado",
+      "rating": 5,
+      "text": "The crepes were Amazing, not too sweet.. The place was nice and cozy, the bathroom was clean and the Gentlemen that took care of me and my sister was polite and very helpful with his suggestions for us... I'll be back for sure...",
+      "iso_date": "2018-05-03T12:41:13Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURRdDdMVWxBRRAB",
+      "author": "Carol M",
+      "rating": 4,
+      "text": "Love to food and service. The savory salmon crepe was very good.  Lost a star because I would have preferred a ceramic plate instead of paper but that’s just me being picky. Otherwise, enjoyable experience.\nPS. While I love pets I’m glad they do not allow them. Mat. 7:6",
+      "iso_date": "2018-04-24T14:52:10Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBcHZPNnJ3RRAB",
+      "author": "Sabina Williams",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-03-23T03:57:52Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnNjVHNGNREAE",
+      "author": "Steve Pharand",
+      "rating": 5,
+      "text": "Excellent choix! Comme repas ou dessert, sur place ou pour apporter c'est super! Bon rapport qualité/prix",
+      "iso_date": "2018-03-06T19:23:16Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNRbVA2VDV3RRAB",
+      "author": "Thomas Arlotta",
+      "rating": 3,
+      "text": "Not bad. Like you get what you expect. Don't expect to have the best crepes ever or best service ever. It's great crepes in Manhattan but that's it.",
+      "iso_date": "2018-02-17T04:11:22Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURReHVYVERnEAE",
+      "author": "Aisha Collins",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2018-02-09T00:54:21Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURRbnF5blBBEAE",
+      "author": "abby black",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-01-28T23:22:49Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNnaGJXY253RRAB",
+      "author": "Clifford Blaza",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2018-01-15T01:04:13Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBejhLWTFBRRAB",
+      "author": "Bailey Hamilton",
+      "rating": 1,
+      "text": "Great crepes but no good service. If you have a dog this is not the right place they don’t like dogs at all! I was very unpleased with the service and I am upset with the disrespect I got.",
+      "iso_date": "2018-01-14T15:42:42Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNBajd2am9nRRAB",
+      "author": "Lucia Dammert",
+      "rating": 1,
+      "text": "There wasn’t a no pet sign and teh lady was treating with disrespect! I am not happy with my visit to you! Please never do thei again to anyone!",
+      "iso_date": "2018-01-14T15:37:12Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURndjZ6VU9nEAE",
+      "author": "Matt Dillon",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-01-03T12:23:07Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNBakx5aG13RRAB",
+      "author": "Juan Ignacio Santanello",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2018-01-01T22:44:42Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURROE5TdmRREAE",
+      "author": "Bernardo Pontes",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-12-28T23:40:47Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnOTRQd0NnEAE",
+      "author": "Pierre-Olivier Millaire",
+      "rating": 4,
+      "text": "Good choices for a little snack!",
+      "iso_date": "2017-11-29T14:50:58Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnOFBpSkpnEAE",
+      "author": "Hawyee Auyong",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2017-11-19T05:08:27Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNReUlUT193RRAB",
+      "author": "Michelle Powell",
+      "rating": 4,
+      "text": "They have sweet and savory crêpes. All really good! But they’re really stingy with their coffee. If I spend $16 for breakfast, a free refill is not a big deal.",
+      "iso_date": "2017-10-26T16:37:18Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN3b2VtcEx3EAE",
+      "author": "Florence McFadden",
+      "rating": 4,
+      "text": "Good service overall",
+      "iso_date": "2017-10-14T17:09:37Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNnM3Y2eHBBRRAB",
+      "author": "Øystein Husby",
+      "rating": 1,
+      "text": "",
+      "iso_date": "2017-10-10T12:40:00Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNncHA3SS1nRRAB",
+      "author": "James Scott",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2017-10-06T09:02:48Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBanZHbHZ3RRAB",
+      "author": "Freddy Castelan",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2017-09-23T14:58:57Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN3NzgzOWtnRRAB",
+      "author": "William Knoff",
+      "rating": 5,
+      "text": "Wide selection of tasty crêpes, nice Cafe like environment, quick service, serves coffee, selection of bottled drinks are also purchasable",
+      "iso_date": "2017-08-30T23:35:02Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnczhuUk9nEAE",
+      "author": "Daniele Fucciolo Penalva",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-08-20T19:47:11Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBd2FDUHBBRRAB",
+      "author": "Jason R.",
+      "rating": 5,
+      "text": "Good crepes with awesome customer service!",
+      "iso_date": "2017-08-11T18:22:46Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBZ01qRTFBRRAB",
+      "author": "Linda DiGusta",
+      "rating": 5,
+      "text": "Sweet spot with ample options  and fresh and delicious food. #glutenfree ? Satisfy your crepe crave at no extra charge for yummy and healthy buckwheat!",
+      "iso_date": "2017-08-07T13:51:45Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNRMThtZy1RRRAB",
+      "author": "Total Singing Dojo",
+      "rating": 5,
+      "text": "Excellent food and service.",
+      "iso_date": "2017-08-03T23:17:24Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN3OEtmdWRBEAE",
+      "author": "Jan-Kristòf Louis-Mansano",
+      "rating": 5,
+      "text": "Strawberries and bananas with dark chocolate are to die for.",
+      "iso_date": "2017-07-12T00:53:36Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNBeUlDOVFBEAE",
+      "author": "Aifra Ruiz",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-07-11T17:55:16Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNnbExYRXBRRRAB",
+      "author": "pejman ghaemi mohammadi",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-07-10T23:31:43Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNRZ3FXQVhBEAE",
+      "author": "MTL girly",
+      "rating": 5,
+      "text": "Great cozy place and yummy crêpes!",
+      "iso_date": "2017-07-02T14:05:37Z",
+      "date_label": "8 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNnNkpPZFdREAE",
+      "author": "Mairin",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2017-06-21T11:32:01Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnNDVucERBEAE",
+      "author": "Kay T",
+      "rating": 5,
+      "text": "Great food and service clean cute seating",
+      "iso_date": "2017-06-20T14:38:38Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURnMV92VXFnRRAB",
+      "author": "Nana Boateng",
+      "rating": 5,
+      "text": "The staff here are so friendly!! It's a familial feel where they make you feel like you're at home and the food is awesome! Their sweet crepes are what I'm really into, the Nutella, the dulce de leche, the White vanilla, I can go on and on. I'd highly recommend this place for your crepe cravings. One thing though, make sure you eat it before it cools down or it'll become hard at the edges.",
+      "iso_date": "2017-06-18T16:11:03Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNRNE95NWJREAE",
+      "author": "Yen Chia Feng",
+      "rating": 5,
+      "text": "Great crepe but definitely on the pricey side",
+      "iso_date": "2017-05-27T06:01:02Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURBMG9XT1dnEAE",
+      "author": "Drakeler Austin",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2017-05-07T16:37:41Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNRXzdiQS1RRRAB",
+      "author": "Sidhant Seth",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-04-18T14:37:44Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURRaWUyMHl3RRAB",
+      "author": "Leigh Herbert",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2017-04-18T13:49:32Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURRd0pDTTR3RRAB",
+      "author": "Vladimir Schwindeman",
+      "rating": 5,
+      "text": "The people here very nice fast and efficient and he's fit and fabulous I would highly recommend if the children and even ago and all ages I love it",
+      "iso_date": "2017-04-15T12:41:16Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNRLWQtVUVnEAE",
+      "author": "Jeremy Shulman",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-04-04T23:11:26Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNBbTdpMWF3EAE",
+      "author": "Ingrid Nunez",
+      "rating": 4,
+      "text": "The Crepes are great, I just wish the tables were kept clean. I saw the same sticky mess when I went in the morning as when I went back 7 hours later with my son. Def not cool",
+      "iso_date": "2017-03-24T04:32:40Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURncXRQMnJRRRAB",
+      "author": "Ipshita Datta",
+      "rating": 5,
+      "text": "Loved the Nutella crepe with strawberry and bananas",
+      "iso_date": "2017-03-10T13:48:25Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURRcmZlZVNREAE",
+      "author": "Ryan Jong Wook Kim",
+      "rating": 4,
+      "text": "Good for a quick bite. The staffs are friendly, and the crepes are tasty.",
+      "iso_date": "2017-03-06T16:28:25Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURnMWRicDJRRRAB",
+      "author": "Ysoris Amador",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-03-04T23:33:23Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnMmFHaFJREAE",
+      "author": "Charlotte Arboleda",
+      "rating": 5,
+      "text": "After a long wait, due to my arrival during local private school lunch, the young woman behind the counter delivered my butter and sugar crepe straight to my table. Delicious.",
+      "iso_date": "2017-02-27T11:37:56Z",
+      "date_label": "Edited 9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURnNXVxVTZnRRAB",
+      "author": "Marcus Johnson",
+      "rating": 1,
+      "text": "Awful, slow and unapologetic service. All the milks were bad, even the new milk they put out. Trash everywhere. Staff made it seem as though they were doing me a favor.",
+      "iso_date": "2017-02-26T21:40:03Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBb1pLanJRRRAB",
+      "author": "Maddie Harris",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-02-25T19:35:07Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURRaXBmb2hBRRAB",
+      "author": "lili Guilamo",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2017-02-01T18:45:45Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURBNXBpX2ZnEAE",
+      "author": "Megan Burgos",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2017-01-30T01:30:45Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNBcmFmNnJBRRAB",
+      "author": "Timothy Ealer (Tim)",
+      "rating": 3,
+      "text": "Slow service, atmosphere stale.",
+      "iso_date": "2016-12-30T17:13:40Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNnczVLZzR3RRAB",
+      "author": "Victor",
+      "rating": 4,
+      "text": "Nice place and the crepes are delicious. Not the real French style crepes, but still delicious.",
+      "iso_date": "2016-12-19T17:09:00Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNRX3RtMndRRRAB",
+      "author": "Efrain Duenas",
+      "rating": 5,
+      "text": "Always good and employees are cordial.  When in the neighborhood, I always make a crepe stop here.\n\nNever too crowded and always presentable.",
+      "iso_date": "2016-11-30T14:27:41Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURBcnRtbWR3EAE",
+      "author": "Jeff L.",
+      "rating": 4,
+      "text": "Yum! If you love crepes, you need to try these!  I had the Peanut Butter and Nutella!  They also have non-sweet crepes to choose from.",
+      "iso_date": "2016-11-21T16:33:33Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNBNzdxdENREAE",
+      "author": "Noelle Lequatre",
+      "rating": 4,
+      "text": "Was walking by and needed to eat fast. Found this nearby and stopped in. They have many different types of options, from sweet to savory. My fiance and I ordered different things and we were both pleasantly suprised with how tasty they were. The inside of the shop is small so thinks is definitely an eat and go kind of place. Oh and their coffee is nice too.",
+      "iso_date": "2016-11-07T22:58:12Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBcFpPNDF3RRAB",
+      "author": "NorbPB",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2016-11-04T13:03:25Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURnNHZxLW93RRAB",
+      "author": "Jonathan Hirshowitz",
+      "rating": 4,
+      "text": "yummy crepes!",
+      "iso_date": "2016-10-31T20:17:17Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNBMzhMcjF3RRAB",
+      "author": "Denby Liu",
+      "rating": 4,
+      "text": "Quite fond of crepes and this eatery provides a decent iteration of the food. Great for when you're not too hungry and want something quick. Or, if you are hungry have two! They have both sweet and savoury versions and they even have Orangina to give you that let's-pretend-I'm-in-France moment.\n\nAlso, just like the name and have to shout it out in my best French accent as we walk by. 8)",
+      "iso_date": "2016-09-04T13:08:00Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURROVA2aVJREAE",
+      "author": "V Martell",
+      "rating": 4,
+      "text": "We tried the chicken pesto crepes and they were very good. It's a small place, but it wasn't crowded when we went.",
+      "iso_date": "2016-08-28T20:47:06Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNnbHZDcFJREAE",
+      "author": "Karim Jiwani",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2016-07-31T12:57:27Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURncGVEZnNnRRAB",
+      "author": "Bryant Ramos",
+      "rating": 5,
+      "text": "",
+      "iso_date": "2016-07-15T13:37:55Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURBNkktc1ZnEAE",
+      "author": "Jennifer McNamara",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2016-07-11T00:15:12Z",
+      "date_label": "9 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNReU15YkNBEAE",
+      "author": "Astrid Toribio",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2016-05-19T20:26:49Z",
+      "date_label": "10 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURROWZ2bWNnEAE",
+      "author": "Brian Rogers",
+      "rating": 2,
+      "text": "",
+      "iso_date": "2016-04-16T00:52:47Z",
+      "date_label": "10 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURndTR2dk1nEAE",
+      "author": "Enzo Martin",
+      "rating": 4,
+      "text": "",
+      "iso_date": "2016-03-31T01:19:38Z",
+      "date_label": "10 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURnN0tUME1REAE",
+      "author": "Lara Coelho",
+      "rating": 3,
+      "text": "",
+      "iso_date": "2015-11-21T00:20:34Z",
+      "date_label": "10 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURncDQ2cmRnEAE",
+      "author": "Jacob Cohen",
+      "rating": 4,
+      "text": "Amazing crepes but the price is a but high.",
+      "iso_date": "2015-11-16T12:20:24Z",
+      "date_label": "10 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURneGZTYWFREAE",
+      "author": "Scott Zawalski",
+      "rating": 3,
+      "text": "Good crepe but slow service and they are pricey.",
+      "iso_date": "2015-11-16T11:58:39Z",
+      "date_label": "10 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBejRDNHdBRRAB",
+      "author": "Peter Banasick",
+      "rating": 5,
+      "text": "très bien",
+      "iso_date": "2015-07-07T17:50:47Z",
+      "date_label": "10 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNnN3VUOThRRRAB",
+      "author": "Bruno Bergia",
+      "rating": 5,
+      "text": "excellent",
+      "iso_date": "2014-12-16T18:46:12Z",
+      "date_label": "11 years ago"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURBcW9hRnJBRRAB",
+      "author": "Erin Knight",
+      "rating": 4,
+      "text": "Great neighborhood place to go and grab a crepe. The food is made to order so it can take a little while if there are a few people in front of you. But it's worth the wait for something different. The Egg, Gruyere and Ham crepe is a good weekend breakfast meal.",
+      "iso_date": "2014-09-26T04:01:41Z",
+      "date_label": "11 years ago"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURRNDQtQVV3EAE",
+      "author": "Marjon Otero",
+      "rating": 5,
+      "text": "Cute neighborhood crepe place with great customer service.",
+      "iso_date": "2014-07-18T00:02:04Z",
+      "date_label": "11 years ago"
+    }
+  ]
+}

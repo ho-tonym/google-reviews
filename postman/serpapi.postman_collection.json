@@ -1,0 +1,122 @@
+{
+  "info": {
+    "name": "Vive La Crepe - SerpAPI",
+    "description": "All SerpAPI HTTP requests used by scripts/fetch-reviews.mjs. Set the collection variable `serpapi_key` (and optionally `data_id` / `next_page_token`) before running.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "https://serpapi.com", "type": "string" },
+    { "key": "serpapi_key", "value": "", "type": "string" },
+    { "key": "data_id", "value": "0x89c25884c329115f:0x51702dc281924a47", "type": "string" },
+    { "key": "next_page_token", "value": "", "type": "string" }
+  ],
+  "item": [
+    {
+      "name": "1. Account - credits remaining",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/account.json?api_key={{serpapi_key}}",
+          "host": ["{{base_url}}"],
+          "path": ["account.json"],
+          "query": [
+            { "key": "api_key", "value": "{{serpapi_key}}" }
+          ]
+        },
+        "description": "Returns account info including total_searches_left. Does NOT consume a search credit. Used at the end of each fetch run for the credits badge."
+      }
+    },
+    {
+      "name": "2. Resolve data_id (Google Maps search)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/search.json?engine=google_maps&q=Vive La Crepe 532 Columbus Ave New York NY 10023&type=search&hl=en&api_key={{serpapi_key}}",
+          "host": ["{{base_url}}"],
+          "path": ["search.json"],
+          "query": [
+            { "key": "engine", "value": "google_maps" },
+            { "key": "q", "value": "Vive La Crepe 532 Columbus Ave New York NY 10023" },
+            { "key": "type", "value": "search" },
+            { "key": "hl", "value": "en" },
+            { "key": "api_key", "value": "{{serpapi_key}}" }
+          ]
+        },
+        "description": "Resolves a place's data_id from a text query (place_results.data_id or local_results[0].data_id). Only called when a store has no cached data_id."
+      }
+    },
+    {
+      "name": "3. Reviews - first page (newest first)",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "const j = pm.response.json();",
+              "const tok = j.serpapi_pagination && j.serpapi_pagination.next_page_token;",
+              "if (tok) { pm.collectionVariables.set('next_page_token', tok); console.log('Saved next_page_token'); }"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/search.json?engine=google_maps_reviews&data_id={{data_id}}&sort_by=newestFirst&hl=en&no_cache=true&api_key={{serpapi_key}}",
+          "host": ["{{base_url}}"],
+          "path": ["search.json"],
+          "query": [
+            { "key": "engine", "value": "google_maps_reviews" },
+            { "key": "data_id", "value": "{{data_id}}" },
+            { "key": "sort_by", "value": "newestFirst" },
+            { "key": "hl", "value": "en" },
+            { "key": "no_cache", "value": "true" },
+            { "key": "api_key", "value": "{{serpapi_key}}" }
+          ]
+        },
+        "description": "First page of reviews. Note: `num` must NOT be sent on the first page (SerpAPI returns 8 and errors if num is present). `no_cache=true` forces a fresh fetch (bypasses cached results/errors). The test script auto-saves serpapi_pagination.next_page_token into the collection variable for request #4."
+      }
+    },
+    {
+      "name": "4. Reviews - next page (pagination)",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "const j = pm.response.json();",
+              "const tok = j.serpapi_pagination && j.serpapi_pagination.next_page_token;",
+              "if (tok) { pm.collectionVariables.set('next_page_token', tok); console.log('Advanced next_page_token'); }",
+              "else { console.log('No more pages'); }"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/search.json?engine=google_maps_reviews&data_id={{data_id}}&sort_by=newestFirst&hl=en&num=20&no_cache=true&next_page_token={{next_page_token}}&api_key={{serpapi_key}}",
+          "host": ["{{base_url}}"],
+          "path": ["search.json"],
+          "query": [
+            { "key": "engine", "value": "google_maps_reviews" },
+            { "key": "data_id", "value": "{{data_id}}" },
+            { "key": "sort_by", "value": "newestFirst" },
+            { "key": "hl", "value": "en" },
+            { "key": "num", "value": "20" },
+            { "key": "no_cache", "value": "true" },
+            { "key": "next_page_token", "value": "{{next_page_token}}" },
+            { "key": "api_key", "value": "{{serpapi_key}}" }
+          ]
+        },
+        "description": "Subsequent pages, using the next_page_token from the previous response. `no_cache=true` forces a fresh fetch. Run #3 once, then run this repeatedly (the test script keeps advancing the token) until no token is returned. `num` (1-20) is only valid here, not on the first page."
+      }
+    }
+  ]
+}
