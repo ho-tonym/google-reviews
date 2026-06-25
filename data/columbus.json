@@ -5,9 +5,9 @@
     "address": "532 Columbus Ave, New York, NY 10023",
     "data_id": "0x89c25884c329115f:0x51702dc281924a47",
     "rating": 4.3,
-    "total_reviews": 471
+    "total_reviews": 470
   },
-  "fetched_at": "2026-06-25T14:12:43.424Z",
+  "fetched_at": "2026-06-25T15:13:17.290Z",
   "complete": true,
   "resume_token": null,
   "reviews": [
